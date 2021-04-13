@@ -1,7 +1,7 @@
 
 
 # An intelligent droid based on the Arduino + Raspberry Pi named  RD-1.
-This A smart droid RD-1 with his eyes and brain.
+A  smart droid RD-1 with his eyes and brain.
 <p align="center">
   <img src="3.png">
 </p>
