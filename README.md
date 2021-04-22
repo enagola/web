@@ -26,7 +26,7 @@ Our motivation for this project is to create a smart robot(AI), in this case usi
 
 
 <p align="center">
-  <img src="Photos/rd1_m.png">
+  <img src="Videos/rd1.gif">
 </p>
 
 
