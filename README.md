@@ -5,18 +5,17 @@
   <img src="3.png">
 </p>
 
-# Abstract
-
-
-# Background
-<p> Robots nowadays play an important role in any life aspect. They reshape the way we do tedious tasks. However, they still have limits when human still need to have physical control to the robot. Because of this, our group is determined to build an low cost and efficient robot that can recognize the most fast protocol - voice command, and run on its own to a target to do that specific task from users. Our method will use Voice Recognition, Object Detection, and Planning Motion libraries running on Raspberry Pi 4 and Adruino.</p>
-
 
 # Team Members
 - Ninh Tran. nkt002@ucsd.edu
 - Khanh Pham. kcpham@ucsd.edu
 - Ethan Nagola. enagola@ucsd.edu
 - Andres Bernal. a3bernal@ucsd.edu
+
+
+# Background
+<p> Robots nowadays play an important role in any life aspect. They reshape the way we do tedious tasks. However, they still have limits when human still need to have physical control to the robot. Because of this, our group is determined to build an low cost and efficient robot that can recognize the most fast protocol - voice command, and run on its own to a target to do that specific task from users. Our method will use Voice Recognition, Object Detection, and Planning Motion libraries running on Raspberry Pi 4 and Adruino.</p>
+
 
 # Abstract
 We are using a self-balancing robot called ELEGOO, which is a pre existing robot and will equip it with various hardwares such as  cameras, speakers, microphones and other listening devices to help us accomplish our goal and make better use of robot's capabilities. We are going to use the arduino to balance the robot and a raspberry pi to get the RD-1 to use voice and object recognition. We will be using packages from python , Arduino IDE, and voice recognition libraries  such as google API to help us create machine learning algorithms that uses computer vision like OpenCV and voice recognition similar to google, siri, and Alexa. We will also create a neural networks with the intention to give the robot a way for it to learn and adapt in different scenarios that could potentially be prsented when put into use. With this software we hope to accomplish the robot’s ability to rotate its camera and move around on its own, recognize objects that it’s camera picks up as it moves around, be able to turn speech into words it can understand, and be able to execute simple commands from those words.
