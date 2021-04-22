@@ -1,14 +1,16 @@
 
+# Introduction
+<p> The purpose of this project is to build and develop a robot with capilities so that it can support and help human in daily tasks. Originally from the movie Star War, our Robot take inluence from the Robot BB-8 and R1-D1, which are smart Robots that can interact with humans.   The project is completed at University of California, San Diego during Spring 2021   </p>
 
-# An intelligent droid based on the Arduino + Raspberry Pi named  RD-1.
-A  smart droid RD-1 with his eyes and brain.
 <p align="center">
   <img src="3.png">
 </p>
 
-# Motivation
+# Abstract
 
-# Project Overview
+
+# Background
+<p> Robots nowadays play an important role in any life aspect. They reshape the way we do tedious tasks. However, they still have limits when human still need to have physical control to the robot. Because of this, our group is determined to build an low cost and efficient robot that can recognize the most fast protocol - voice command, and run on its own to a target to do that specific task from users. Our method will use Voice Recognition, Object Detection, and Planning Motion libraries running on Raspberry Pi 4 and Adruino.</p>
 
 # Team Members
 - Ninh Tran. nkt002@ucsd.edu
