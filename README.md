@@ -18,11 +18,32 @@
 - Ethan Nagola. enagola@ucsd.edu
 - Andres Bernal. a3bernal@ucsd.edu
 
+# Abstract
+We are using a self-balancing robot called ELEGOO, which is a pre existing robot and will equip it with various hardwares such as  cameras, speakers, microphones and other listening devices to help us accomplish our goal and make better use of robot's capabilities. We are going to use the arduino to balance the robot and a raspberry pi to get the RD-1 to use voice and object recognition. We will be using packages from python , Arduino IDE, and voice recognition libraries  such as google API to help us create machine learning algorithms that uses computer vision like OpenCV and voice recognition similar to google, siri, and Alexa. We will also create a neural networks with the intention to give the robot a way for it to learn and adapt in different scenarios that could potentially be prsented when put into use. With this software we hope to accomplish the robot’s ability to rotate its camera and move around on its own, recognize objects that it’s camera picks up as it moves around, be able to turn speech into words it can understand, and be able to execute simple commands from those words.
 
-# Goal 
+# Motivation/Goal
+
+Our motivation for this project is to create a smart robot(AI), in this case using ELEGOOl, to then create our fully equipeed RD-1 with the hardware mentioned previuisly. Our motivation to create this type of RD-1 robot is because we want to create AI use in every day life more practical since we feel like it's not being used as much as it should be currently in the state of this world. The use of AI right now seems to be used in the more complex problems of the world and its usually found in Marketing, FInance, HealthCare , etc so there isn't much use of AI use in everyday life task since its mostly use in big industries. We are motivated to target people life with this robot because it can also benefit people that are limited to what they can do such as handicapped people that might have troubke moving around or pickig up different items ariund their home and can also benefit people in nursing homes accomplish simple different task that might presentsitself.So our goal with this project is to integrate  RD-1 into person's everyday life to accomplish simple task for them and this can be possible with the use of RD-1 since it will able to to recognize speech commands given by a person and execute the command safely and efficiently. 
 
 
 # ADD VIDEO HERE
+
+# Tools needed to replicate the project
+ - ElEGOO robot 
+ - Camera
+ - Raspberry Pi 4
+ - Arduino board
+ - Speaker 
+ - Microphone
+
+# Software Needed to replicate the Project
+ - Python 3x+
+ - OpenCV
+ - Voice/Speech Recognition Algorithm/API (Alexa, Siri , Google)
+
+
+
+
 
 # References
 - We use the TensorFlow Object Detection API. The guide provided instructions for how to set up TensorFlow’s Object Detection API on the Raspberry Pi :  https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi
