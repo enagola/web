@@ -6,7 +6,6 @@
   <img src="3.png">
 </p>
 
-<<<<<<< HEAD
 # Abstract
 
 
