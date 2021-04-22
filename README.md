@@ -18,8 +18,6 @@
 - Ethan Nagola. enagola@ucsd.edu
 - Andres Bernal. a3bernal@ucsd.edu
 
-# Abstract
-
 
 # Goal 
 
