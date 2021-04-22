@@ -25,9 +25,9 @@ We are using a self-balancing robot called ELEGOO, which is a pre existing robot
 Our motivation for this project is to create a smart robot(AI), in this case using ELEGOOl, to then create our fully equipeed RD-1 with the hardware mentioned previuisly. Our motivation to create this type of RD-1 robot is because we want to create AI use in every day life more practical since we feel like it's not being used as much as it should be currently in the state of this world. The use of AI right now seems to be used in the more complex problems of the world and its usually found in Marketing, FInance, HealthCare , etc so there isn't much use of AI use in everyday life task since its mostly use in big industries. We are motivated to target people life with this robot because it can also benefit people that are limited to what they can do such as handicapped people that might have troubke moving around or pickig up different items ariund their home and can also benefit people in nursing homes accomplish simple different task that might presentsitself.So our goal with this project is to integrate  RD-1 into person's everyday life to accomplish simple task for them and this can be possible with the use of RD-1 since it will able to to recognize speech commands given by a person and execute the command safely and efficiently. 
 
 
-<video controls>
-  <source src="Videos/rd1.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <img src="Photos/rd1_m.png">
+</p>
 
 
 # Tools needed to replicate the project
