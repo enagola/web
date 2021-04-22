@@ -1,4 +1,5 @@
 
+your project is about,  who are the team members, how to replicate the project, documentation, etc.
 
 # An intelligent droid based on the Arduino + Raspberry Pi named  RD-1.
 A  smart droid RD-1 with his eyes and brain.
@@ -6,9 +7,6 @@ A  smart droid RD-1 with his eyes and brain.
   <img src="3.png">
 </p>
 
-# Motivation
-
-# Project Overview
 
 # Team Members
 - Ninh Tran. nkt002@ucsd.edu
@@ -16,6 +14,16 @@ A  smart droid RD-1 with his eyes and brain.
 - Ethan Nagola. enagola@ucsd.edu
 - Andres Bernal. a3bernal@ucsd.edu
 
+# Abstract
+
+# Introduction
+
+# Motivation
+
+# Goal 
+
+
+# ADD VIDEO HERE
 
 # References
 - We use the TensorFlow Object Detection API. The guide provided instructions for how to set up TensorFlow’s Object Detection API on the Raspberry Pi :  https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi
