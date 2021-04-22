@@ -1,6 +1,5 @@
 # Introduction
-<p> The purpose of this project is to build and develop a robot with capilities so that it can support and help human in daily tasks. Originally from the movie Star War, our Robot take inluence from the Robot BB-8 and R1-D1, which are smart Robots that can interact with humans.   The project is completed at University of California, San Diego during Spring 2021   </p>
-
+<p> The purpose of this project is to build and develop a robot with capilities so that it can support and help human in daily tasks. Originally from the movie Star War, our Robot take inluence from the Robot BB-8 and R1-D1, which are smart Robots that can interact with humans. Our project, the robot known as RD-1, is a self balancing robot that has the goal of assisting oureveryday retrieval needs.  The goal of the project is to have RD-1 be able to listen to commandsfrom people similar to that of google, siri, and alexa, and be able to interpret that command in orderto complete a task.   Some general tasks that the robot will be able to do is interact with a user,recognize objects, move on its own, and be aware of its overall surroundings.  With these generaltasks the robot will be able to take simple commands of retrieval, locate objects that were requestedand move to those object.  After being able to do that, the robot will expand towards being able topick up those objects, locate the person who requested it, and bring the object to them. The project is completed at University of California, San Diego during Spring 2021   </p>
 
 <p align="center">
   <img src="3.png">
@@ -21,10 +20,6 @@
 
 # Abstract
 
-# Introduction
-Our project, the robot known as RD-1, is a self balancing robot that has the goal of assisting oureveryday retrieval needs.  The goal of the project is to have RD-1 be able to listen to commandsfrom people similar to that of google, siri, and alexa, and be able to interpret that command in orderto complete a task.   Some general tasks that the robot will be able to do is interact with a user,recognize objects, move on its own, and be aware of its overall surroundings.  With these generaltasks the robot will be able to take simple commands of retrieval, locate objects that were requestedand move to those object.  After being able to do that, the robot will expand towards being able topick up those objects, locate the person who requested it, and bring the object to them
-
-# Motivation
 
 # Goal 
 
