@@ -1,3 +1,10 @@
+<ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="/contact">Contact</a></li>
+    <li></li>
+</ul>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ninhtran002/Smart-Droid-RD1/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
