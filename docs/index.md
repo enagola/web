@@ -1,5 +1,5 @@
 ---
-title: pafatbn forever!
+title: A Smart Droid
 layout: template
 filename: index
 --- 
