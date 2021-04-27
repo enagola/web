@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+nav:
+    - Introduction: 'index.md'
+    - Project Specification: 'projectspecification.md'
