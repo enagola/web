@@ -1,5 +1,5 @@
 ---
-title: A Smart Droid
+title: Home
 layout: template
 filename: index
 --- 
