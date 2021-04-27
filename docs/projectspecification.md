@@ -1,5 +1,7 @@
 # Delete later
 [Home](index.md)
+[Presentations](presentation.md)
+[Final report](finalreport.md)
 
 # Team Members
 - Ninh Tran. nkt002@ucsd.edu
