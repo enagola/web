@@ -12,15 +12,10 @@
   <body>
     <section class="page-header">
       <h1 class="project-name">An Smart Droid</h1>
-      <h2 class="project-tagline"></h2>
-
- 
-      <a href= {{ index }} class="btn">Home</a>
-      <a href= {{ projectspecification }} class="btn">Project Specification</a>
-      <a href= {{ presentation }} class="btn">Presentations</a>
-      <a href= {{ finalreport }} class="btn">Final Report</a>
-
-
+      <h2 class="project-tagline"></h2> 
+      {% for page in site.pages %}
+        <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
+      {% endfor %}
       <a href="https://github.com/ninhtran002/Smart-Droid-RD1.git" class="btn">View on GitHub</a>      
     </section>
 
