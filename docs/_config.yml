@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-nav:
-    - Introduction: 'index.md'
-    - Project Specification: 'projectspecification.md'
+header_pages:
+  - index.md
+  - projectspecification.md
