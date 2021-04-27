@@ -1,3 +1,8 @@
+---
+title: Project Specification
+layout: template
+filename: projectspecification
+--- 
 # Delete later
 [Home](index.md)
 [Presentations](presentation.md)
