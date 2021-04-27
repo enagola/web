@@ -2,7 +2,7 @@
 <p> The purpose of this project is to build and develop a robot with capilities so that it can support and help human in daily tasks. Originally from the movie Star War, our Robot takes inluence from the robot BB-8, which is a smart Robots that can interact with humans. Our project, the robot known as RD-1, is a self-balancing robot that has the goal of assisting our everyday retrieval needs. The goal of the project is to have RD-1 be able to listen to commands from people similar to that of Google, Siri, and Alexa, and be able to interpret that command in orderto complete a task.  Some general tasks that the robot will be able to do is interact with a user,recognize objects, move on its own, and be aware of its overall surroundings.  With these general tasks the robot will be able to take simple commands of retrieval, locate objects that were requested and move to the objects.  After being able to do that, the robot will expand towards being able to pick up those objects, locate the person who requested it, and bring the object to him. The project is completed at University of California, San Diego during Spring 2021.</p>
 
 <p align="center">
-  <img src="https://github.com/ninhtran002/Smart-Droid-RD1/blob/17fb0cc9c1fa3eb935f47d9d9933cc7f8e252569/Photos/rd1_m.png">  
+  <img src="Photos/rd1_m.png">  
   
 </p>
 
@@ -27,7 +27,8 @@ Our motivation for this project is to create a smart robot(AI), in this case usi
 
 
 <p align="center">
-  <img src="https://github.com/ninhtran002/Smart-Droid-RD1/blob/17fb0cc9c1fa3eb935f47d9d9933cc7f8e252569/Videos/rd1.gif">
+  <img src="Videos/rd1.gif">
+  
 </p>
 
 
