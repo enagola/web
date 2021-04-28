@@ -20,3 +20,7 @@ filename: io4finalreport
 # Conclusion 
 
 # References
+- We use the TensorFlow Object Detection API. The guide provided instructions for how to set up TensorFlow’s Object Detection API on the Raspberry Pi : [here](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi)
+- The mechanical robot Parts for a self-balance droid (ELEGOO Tumbller) and Arduino boards: [here](https://www.elegoo.com/pages/arduino-kits-support-files)
+- Two-degree-of-freedom for controlling the camera : [here](https://www.waveshare.com/wiki/Pan-Tilt_HAT)
+- Raspberry Pi 4 : [here](https://www.raspberrypi.org/products/)
