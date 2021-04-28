@@ -1,8 +1,7 @@
 ---
 title: Project Specification
 layout: template
-filename: projectspecification
-order_number: 2
+filename: io3projectspecification
 --- 
 # Delete later
 [Home](index.md)
