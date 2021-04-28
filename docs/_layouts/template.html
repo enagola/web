@@ -14,9 +14,11 @@
       <h1 class="project-name">A Smart Droid</h1>
       <h2 class="project-tagline"></h2> 
 
-      {% for page in site.pages| where:"path", path %}
-        <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
-      {% endfor %}
+
+      <a href= "/index.md"  class="btn">Home</a>
+      <a href= "/projectspecification.md" class="btn">Project Specification</a>
+      <a href= "/presentation.md"  class="btn">Presentations</a>
+      <a href= "/finalreport.md"  class="btn">Final Report</a>
 
       <a href="https://github.com/ninhtran002/Smart-Droid-RD1.git" class="btn">View on GitHub</a>      
     </section>
