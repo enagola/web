@@ -8,3 +8,11 @@ filename: io2presentation
 [Presentations](io2presentation.md)
 [Project Specification](io3projectspecification.md)
 [Final report](io4finalreport.md)
+
+# Pitch
+The slides for our project pitch [here](/pdf/pitch.pdf)
+# Midterm Presentation
+
+# Final Presentation
+
+
