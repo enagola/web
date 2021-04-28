@@ -14,7 +14,7 @@
       <h1 class="project-name">A Smart Droid</h1>
       <h2 class="project-tagline"></h2> 
 
-      {% for page in site.pages %}
+      {% for page in site.pages| where:"path", path %}
         <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
       {% endfor %}
 
