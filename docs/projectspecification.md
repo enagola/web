@@ -2,7 +2,6 @@
 title: Project Specification
 layout: template
 filename: projectspecification
-order: 2
 --- 
 # Delete later
 [Home](index.md)
