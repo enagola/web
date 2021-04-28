@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 header_pages:
  - index.md
- - projectspecification.md
- - presentation.md
- - finalreport.md
+ - io2presentation.md
+ - io3projectspecification.md
+ - io4finalreport.md
