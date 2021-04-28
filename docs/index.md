@@ -2,6 +2,7 @@
 title: Home
 layout: template
 filename: index
+order_number: 1
 --- 
 
 # Delete later
