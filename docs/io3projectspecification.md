@@ -5,9 +5,9 @@ filename: io3projectspecification
 --- 
 # Delete later
 [Home](index.md)
-[Project Specification](projectspecification.md)
-[Presentations](presentation.md)
-[Final report](finalreport.md)
+[Presentations](io2presentation.md)
+[Project Specification](io3projectspecification.md)
+[Final report](io4finalreport.md)
 
 # Team Members
 - Ninh Tran. nkt002@ucsd.edu
