@@ -21,7 +21,7 @@ Hardware component for self-balancing robot
 </p>
 The overview of the hardware for RD-1 suach as alll control boards, sensors,and motors.
 <p align="center">
-  <img src="Photos/mainhw.png" width="50%" height="50%">   
+  <img src="Photos/mainhw.png" width="75%" height="75%">   
 </p>
 The body of final droids.
 <p align="center">
