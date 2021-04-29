@@ -15,7 +15,7 @@ filename: io4finalreport
 
 # Technical Material 
 
-Hardware component for self-balancing robot.
+Hardware component for the self-balancing robot.
 <p align="center">
   <img src="Photos/droidparts.jpg" width="50%" height="50%">   
 </p>
