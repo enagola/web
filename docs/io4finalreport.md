@@ -15,8 +15,17 @@ filename: io4finalreport
 
 # Technical Material 
 
+Hardware component for self-balancing robot
 <p align="center">
-  <img src="Photos/mainhw.png">   
+  <img src="Photos/droidparts.jpg" width="50%" height="50%">   
+</p>
+The overview of the hardware for RD-1 suach as alll control boards, sensors,and motors.
+<p align="center">
+  <img src="Photos/mainhw.png" width="50%" height="50%">   
+</p>
+The body of final droids.
+<p align="center">
+  <img src="Photos/droid.png" width="50%" height="50%">   
 </p>
 
 # Milestones
