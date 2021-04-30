@@ -7,7 +7,7 @@ filename: io5comment
 
 <div>
     <p>
-      <h3>Write a review</h3>
+      <h3>Write a comment</h3>
       {% include comment.html %}
     </p>
 </div>
