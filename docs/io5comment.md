@@ -8,6 +8,6 @@ filename: io5comment
 <div>
     <p>
       <h3>Write a review</h3>
-      {% include reviews-new.html %}
+      {% include test.html %}
     </p>
 </div>
