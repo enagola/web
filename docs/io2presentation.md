@@ -19,4 +19,4 @@ The slides for Oral Project Update [here](https://docs.google.com/presentation/d
 The slides for Final Prsenttation [here](https://docs.google.com/presentation/d/1TG9eMhsA4Pwc77WO76d4fqHQT0GNVtCgYHH7xJgbWuQ/edit#slide=id.gd60a4101df_0_0)
 
 # Videos & Images
-[Some videos and pictures](https://drive.google.com/drive/folders/1a5_-kiwCNqwtQX88afZiK7eclBPzPwNT?usp=sharing)
+[Some videos and images](https://drive.google.com/drive/folders/1a5_-kiwCNqwtQX88afZiK7eclBPzPwNT?usp=sharing)
