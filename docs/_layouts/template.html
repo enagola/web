@@ -8,14 +8,13 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/menu-design.css" media="screen">
 
   </head>
   <body>
     <section>
       <nav>
           {% for page in site.pages %}
-            <a href= {{ page.filename }} >{{ page.title }}</a>
+            <a href= {{ page.filename }} class="btn" >{{ page.title }}</a>
           {% endfor %}
       </nav>
     </section>
