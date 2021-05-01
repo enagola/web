@@ -3,12 +3,16 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
   background-color: lightblue;
 }
 .nav_li 
 {
   float: left;
 
+}
+.nav_li:hover {
+  background-color: #111;
 }
 .nav_a 
 {
