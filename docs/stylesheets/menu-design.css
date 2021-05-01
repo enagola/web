@@ -1,8 +1,8 @@
 .nav_ul 
 {
   list-style-type: none;
-  margin: 2em;
-  padding: 2em;
+  margin: 0;
+  padding: 0;
   background-color: lightblue;
 }
 .nav_li 
