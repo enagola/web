@@ -1,5 +1,5 @@
 ---
-title: About us
+title: About Us
 layout: template
 filename: io5about
 --- 
