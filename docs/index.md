@@ -20,14 +20,6 @@ filename: index
   <img src="Photos/rd1_m.png">   
 </p>
 
-
-# Team Members
-- Ninh Tran. nkt002@ucsd.edu
-- Khanh Pham. kcpham@ucsd.edu
-- Ethan Nagola. enagola@ucsd.edu
-- Andres Bernal. a3bernal@ucsd.edu
-
-
 # Background
 <p> Robots nowadays play an important role in any life aspect. They reshape the way we do tedious tasks. However, they still have limits when human still need to have physical control to the robot. Because of this, our group is determined to build an low cost and efficient robot that can recognize the most fast protocol - voice command, and run on its own to a target to do that specific task from users. Our method will use Voice Recognition, Object Detection, and Planning Motion libraries running on Raspberry Pi 4 and Adruino.</p>
 
