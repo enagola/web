@@ -10,13 +10,16 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/menu-design.css" media="screen">
   </head>
+  
   <body>
     <header>
-      <ul class="nav_ul" >
-      {% for page in site.pages %}
-        <li class="nav_li"><a href= {{ page.filename }} class="nav_a">{{ page.title }}</a></li>>
-      {% endfor %}
-      </ul>
+      <section>
+        <ul class="nav_ul" >
+          {% for page in site.pages %}
+            <li class="nav_li"><a href= {{ page.filename }} class="nav_a">{{ page.title }}</a></li>>
+          {% endfor %}
+        </ul>
+      </section>
     </header>
 
     <section class="page-header">
