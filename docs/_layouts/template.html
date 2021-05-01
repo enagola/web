@@ -12,15 +12,15 @@
   </head>
   
   <body>
-
-      <section >
+    <header>
+      <div >
         <ul class="nav_ul" >
           {% for page in site.pages %}
             <li class="nav_li"><a href= {{ page.filename }} class="nav_a">{{ page.title }}</a></li>>
           {% endfor %}
         </ul>
-      </section>
-
+      </div>
+    </header>
 
     <section class="page-header">
       <h1 class="project-name">{{ page.title }}</h1>
