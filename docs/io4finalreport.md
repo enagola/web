@@ -37,3 +37,4 @@ The body of the final droid.
 - The mechanical robot Parts for a [self-balance droid](https://www.elegoo.com/pages/arduino-kits-support-files) and Arduino boards.
 - [Two-degree-of-freedom](https://www.waveshare.com/wiki/Pan-Tilt_HAT) for controlling the camera.
 - [Raspberry Pi 4](https://www.raspberrypi.org/products/)
+- [Arduino Nano](https://www.arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardNano)
