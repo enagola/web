@@ -4,16 +4,7 @@ header_pages:
  - io2presentation.md
  - io3projectspecification.md
  - io4finalreport.md
+ - io5about.md
 
 
 
- # Staticman
-staticman:
- allowedFields: ['address', 'name', 'title', 'description', 'rating']
- branch: gh-pages
- commitMessage: "Hey human, here is a new entry."
- filename: "entry{@timestamp}"
- format: yml
- moderation: true
- path: "_data/reviews"
- requiredFields: ['name', 'title', 'description', 'rating']
