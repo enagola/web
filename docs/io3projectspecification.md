@@ -3,13 +3,9 @@ title: Project Specification
 layout: template
 filename: io3projectspecification
 --- 
-# Delete later
-[Home](index.md)
-[Presentations](io2presentation.md)
-[Project Specification](io3projectspecification.md)
-[Final report](io4finalreport.md)
 
 # Project Charter
+
 ## Project Overview
 Our project, the robot known as RD-1, is a self balancing robot that has the goal of assisting oureveryday retrieval needs.  The goal of the project is to have RD-1 be able to listen to commandsfrom people similar to that of google, siri, and alexa, and be able to interpret that command in orderto complete a task.   Some general tasks that the robot will be able to do is interact with a user,recognize objects, move on its own, and be aware of its overall surroundings.  With these generaltasks the robot will be able to take simple commands of retrieval, locate objects that were requestedand move to those object.  After being able to do that, the robot will expand towards being able topick up those objects, locate the person who requested it, and bring the object to them.
 ## Project Approach
