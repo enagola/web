@@ -9,10 +9,11 @@
 .nav_li 
 {
   float: left;
-
 }
 .nav_li:hover {
-  background-color: #111;
+  background-color: blue; 
+  color:white; 
+
 }
 .nav_a 
 {
