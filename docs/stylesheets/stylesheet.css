@@ -57,11 +57,9 @@ a {
 {
   color: #fff;
   text-align: center;
-  background-color: #159957;  
+  background-color: #159957;
   background-image: url("../Videos/rd1.gif");
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
 }
 
 @media screen and (min-width: 64em) {
