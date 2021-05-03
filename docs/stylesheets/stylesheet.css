@@ -64,8 +64,11 @@ a {
 .page-header-index 
 {
   color: #fff;
-  text-align: center;
+  text-align: center;   
   background-image: url("../Photos/robot.png"); 
+  background-color: red;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
 }
 
 .page-header-presentation 
