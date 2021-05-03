@@ -67,7 +67,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: url("Photos/droid.png");   
+  background-image: url("../Photos/droid.png");   
 }
 
 .page-header-presentation 
@@ -75,28 +75,28 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: url("Photos/droid.png");   
+  background-image: url("../Photos/droid.png");    
 }
 .page-header-specification 
 {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: url("Photos/droid.png");   
+  background-image: url("../Photos/droid.png"); 
 }
 .page-header-finalreport 
 {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: url("Photos/droid.png");   
+  background-image: url("../Photos/droid.png");    
 }
 .page-header-about
 {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: url("Photos/droid.png");   
+  background-image: url("../Photos/droid.png"); 
 }
 
 
