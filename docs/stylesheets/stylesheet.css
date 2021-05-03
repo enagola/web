@@ -76,7 +76,7 @@ a {
   color: #fff;
   text-align: center;
   background-image: url("../Videos/moving.gif"); 
-  background-color: #159957;
+  background-color: darkblue;
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
 
