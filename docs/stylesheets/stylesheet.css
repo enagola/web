@@ -79,6 +79,7 @@ a {
   background-color: #159957;
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
+  background-size:cover ;
 }   
 }
 .page-header-specification 
