@@ -2,7 +2,7 @@
 title: About Us
 layout: template
 filename: io5about
-page-header: page-header-about
+pageheader: page-header-about
 --- 
 # About Us
 - Ninh Tran. nkt002@ucsd.edu
