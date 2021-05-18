@@ -14,5 +14,3 @@ pageheader: page-header-presentation
 # Final Presentation
 [The slides for Final Presentation](https://docs.google.com/presentation/d/1TG9eMhsA4Pwc77WO76d4fqHQT0GNVtCgYHH7xJgbWuQ/edit#slide=id.gd60a4101df_0_0)
 
-# Videos & Images
-[Some videos and images](https://drive.google.com/drive/folders/1a5_-kiwCNqwtQX88afZiK7eclBPzPwNT?usp=sharing)
