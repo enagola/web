@@ -8,7 +8,7 @@ pageheader: page-header-about
 - Ninh Tran. nkt002@ucsd.edu\
 ![image](Photos/ninhtran.png)\
 Project Leader\
-Oversees project development and guidance regarding the project progression and implementations.
+Supervises project development and guidance regarding the project progression and implementations.
 
 - Khanh Pham. kcpham@ucsd.edu\
 ![image](Photos/khanhpham.png)\
