@@ -13,7 +13,7 @@ Supervises project development and guidance regarding the project progression an
 - Khanh Pham. kcpham@ucsd.edu\
 ![image](Photos/khanhpham.png)\
 Application Developer\
-Develope application
+Develop application
 
 - Ethan Nagola. enagola@ucsd.edu\
 ![image](Photos/ethan.png)\
@@ -23,4 +23,4 @@ The head of the logistics
 - Andres Bernal. a3bernal@ucsd.edu\
 ![image](Photos/andres.png)\
 Application Developer\
-Develope application
+Develop application
