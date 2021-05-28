@@ -59,7 +59,7 @@ The original schedule for the project, and the proposed milestones go throughout
 # Individual's Tasks
 
 ## Week 4
-### Ninh:
+### Ninh
 
 | Description | Build a self-balance robot from parts |
 |-------------|---------------------------------------|
@@ -69,10 +69,15 @@ The original schedule for the project, and the proposed milestones go throughout
 | Completion Criteria: | The droid can stand self-balance and move. Schedule the project, including the proposed milestones.|
  
 ### Ethan
+| Description | Report project specification          |
+|-------------|---------------------------------------|
+|             | Work with part 1 and part 2 of project specification. Revise all parts of project specification|
+| Completion Criteria: |  Finish all the requirements for project specification|
+<!-- 
 | Description | Report project specification |
 |-------------|------------------------------|
 |             | Work with part 1 and part 2 of project specification. Revise all parts of project specification|
-|Completion Criteria:| Finish all the requirements for project specification|
+|Completion Criteria:| Finish all the requirements for project specification| -->
 
 
 <!--
