@@ -130,11 +130,6 @@ Speech) to talk with human.|
 |-------------|---------------------------------------|
 |Completion Criteria:| The droid could do some intelligent tasks.|
 
-### Ethan, Andres & Ninh
-| Description | Develop website to control and monitor the droid|
-|-------------|---------------------------------------|
-|Completion Criteria:| Control and view the environment around the droid.|
-
 
 ## Week 9
 ### Ethan, Andres, Ninh & Khanh
