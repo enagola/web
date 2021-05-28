@@ -38,4 +38,22 @@ The original schedule for the project, and the proposed milestones go throughout
 | week | Type      | Description                                                                                                                                                                                                   | Dev  |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
 | 4    | Milestone | Build a self-balance robot from its parts, including mo-tors, aluminum alloy boards, motor brackets, couplings,footholds, circuit control board (Arduino Nano), sensorboards, battery box, ultrasonic sensor. | Ninh |
-| 4    | Milestone | Build a self-balance robot from its parts, including mo-tors, aluminum alloy boards, motor brackets, couplings,footholds, circuit control board (Arduino Nano), sensorboards, battery box, ultrasonic sensor. | Ninh |
+|      | Milestone | Update the Raspberry Pi to the top.  Connect RaspberryPi to Arduino Nano via USB. Test the robot and adjustthe balance. | Ninh |
+|      | Milestone | Report project specification. | Ninh, Khanh, Andres, Ethan |
+|      | Milestone | Project web presence on Github. | Andres, Khanh|
+| 5    | Milestone |Update the Github repo to website | Andres, Khanh|
+|      | Milestone |Familiar with gTTS(text to speech) and Deepspeech(Speech To Text) | Ethan, Andres|
+|      | Milestone |Familiar with TensorFlow Object Detection AP on Rasperry pi | Ninh, Khanh|
+| 6    | Milestone |Implement python code to detect objects| Ethan, Andres|
+|      | Milestone |Implement python code to speak and hear | Ninh, Khanh|
+| 7    | Milestone |Detect objects, interact with a human, receive the voicecommand. The droid finds an object depending on the order | Ninh, Khanh|
+|      | Milestone |Develop website to control and monitor the droid  | Ethan, Andres, Ninh|
+| 8    | Milestone |Detect objects, interact with a human, receive the voice command. The droid finds an object depending on the order(continue) | Ninh, Khanh|
+|      | Milestone |Develop website to control and monitor the droid (continue). | Ethan, Andres, Ninh|
+| 9    | Milestone |Optimize code, adjust the droid to reach the goal | Ethan, Andres, Khanh, Ninh|
+| 10   | Milestone |Final report and video | Ninh, Khanh|
+|      | Milestone |Final report and video| Andres, Ethan|
+|      | Milestone |Update the website | Ethan, Andres, Khanh, Ninh|
+
+
+
