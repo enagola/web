@@ -47,9 +47,9 @@ The original schedule for the project, and the proposed milestones go throughout
 | 6    | Milestone |Implement python code to detect objects| Ethan, Andres|Yes |
 |      | Milestone |Implement python code to speak and hear | Ninh, Khanh|Yes |
 | 7    | Milestone |Detect objects, interact with a human, receive the voicecommand. The droid finds an object depending on the order | Ninh, Khanh|Yes |
-|      | Milestone |Develop website to control and monitor the droid  | Ethan, Andres, Ninh|Yes |
+|      | Milestone |Develop website to control and monitor the droid  | Ethan, Andres, Ninh|No |
 | 8    | Milestone |Detect objects, interact with a human, receive the voice command. The droid finds an object depending on the order(continue) | Ninh, Khanh|Yes |
-|      | Milestone |Develop website to control and monitor the droid (continue). | Ethan, Andres, Ninh|Yes |
+|      | Milestone |Develop website to control and monitor the droid (continue). | Ethan, Andres, Ninh|No |
 | 9    | Deliverable |Optimize code, adjust the droid to reach the goal | Ethan, Andres, Khanh, Ninh|Yes |
 | 10   | Deliverable |Final report and video | Ninh, Khanh|Yes |
 |      | Deliverable |Final report and video| Andres, Ethan|Yes |
