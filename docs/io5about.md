@@ -21,6 +21,6 @@ The head of the logistics
 
 
 - Andres Bernal. a3bernal@ucsd.edu\
-![image](Photos/andres.png.jpeg | width = 100)\
+![image]("Photos/andres.png.jpeg")\
 Application Developer\
 Develop application
