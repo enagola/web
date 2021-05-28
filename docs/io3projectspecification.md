@@ -50,10 +50,10 @@ The original schedule for the project, and the proposed milestones go throughout
 |      | Milestone |Develop website to control and monitor the droid  | Ethan, Andres, Ninh|
 | 8    | Milestone |Detect objects, interact with a human, receive the voice command. The droid finds an object depending on the order(continue) | Ninh, Khanh|
 |      | Milestone |Develop website to control and monitor the droid (continue). | Ethan, Andres, Ninh|
-| 9    | Milestone |Optimize code, adjust the droid to reach the goal | Ethan, Andres, Khanh, Ninh|
-| 10   | Milestone |Final report and video | Ninh, Khanh|
-|      | Milestone |Final report and video| Andres, Ethan|
-|      | Milestone |Update the website | Ethan, Andres, Khanh, Ninh|
+| 9    | Deliverable |Optimize code, adjust the droid to reach the goal | Ethan, Andres, Khanh, Ninh|
+| 10   | Deliverable |Final report and video | Ninh, Khanh|
+|      | Deliverable |Final report and video| Andres, Ethan|
+|      | Deliverable |Update the website | Ethan, Andres, Khanh, Ninh|
 
 
 
