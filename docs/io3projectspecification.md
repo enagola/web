@@ -80,7 +80,7 @@ The original schedule for the project, and the proposed milestones go throughout
 
 ## Week 5
 ### Khanh and Andres
-| Description | Update the Github repo to website|
-|-------------|-------------------------------------------------------|
+| Description | Update the Github repo to website |
+|-------------|-----------------------------------|
 |             | Base on GitHub pages to build a website for project web presence|
 |Completion Criteria:| The website contains Project Specification, images,videos.|
