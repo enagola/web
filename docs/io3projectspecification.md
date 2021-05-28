@@ -130,6 +130,7 @@ order|
 | Description |Optimize code, adjust the droid to reach the goal.|
 |Completion Criteria:| The droid could do some intelligent tasks.|
 
+## Week 10
 ### Ninh & Khanh
 | Description | Final report and video.|
 |Completion Criteria:| Finish all the tasks.|
