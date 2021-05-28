@@ -62,4 +62,4 @@ The original schedule for the project, and the proposed milestones go throughout
 
 | Description | Build a self-balance robot from parts |
 |-------------|---------------------------------------|
-|       a     |             b                         |
+|            | Use all parts usach as motors, aluminum alloy boards, motor brackets, couplings, footholds, circuit control board (Arduino Nano), sensor boards, battery box ultrasonic sensor to make a droid                       |
