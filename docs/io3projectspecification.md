@@ -69,10 +69,18 @@ The original schedule for the project, and the proposed milestones go throughout
 | Completion Criteria: | The droid can stand self-balance and move. Schedule the project, including the proposed milestones.|
 
 ### Ethan
-| Description          | Report project specification                                                                    |
+| Description | Build a self-balance robot from parts |
+|-------------|---------------------------------------|
+|             | Use all parts usach as motors, aluminum alloy boards, motor brackets, couplings, footholds, circuit control board (Arduino Nano), sensor boards, battery box ultrasonic sensor to make a droid                       |
+|  | Update the Raspberry Pi to the top. Connect Raspberry Pi to Arduino |
+|  | Distribute tasks and create project milestones and schedules for the team.|
+| Completion Criteria: | The droid can stand self-balance and move. Schedule the project, including the proposed milestones.|
+
+<!-- ### Ethan
+| Description | Report project specification                                                                    |
 |----------------------|-------------------------------------------------------------------------------------------------|
 |                      | Work with part 1 and part 2 of project specification. Revise all parts of project specification |
-| Completion Criteria: | Finish all the requirements for project specification                                           |
+| Completion Criteria: | Finish all the requirements for project specification                                           | -->
 <!-- 
 | Description | Report project specification                                                                   |
 |-------------|------------------------------------------------------------------------------------------------|
