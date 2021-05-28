@@ -68,30 +68,29 @@ The original schedule for the project, and the proposed milestones go throughout
 |  | Distribute tasks and create project milestones and schedules for the team.|
 | Completion Criteria: | The droid can stand self-balance and move. Schedule the project, including the proposed milestones.|
  
-### Ethan
-| Description | Report project specification          |
-|-------------|---------------------------------------|
-|             | Work with part 1 and part 2 of project specification. Revise all parts of project specification|
-| Completion Criteria: |  Finish all the requirements for project specification|
+| Description          | Report project specification                                                                    |
+|----------------------|-------------------------------------------------------------------------------------------------|
+|                      | Work with part 1 and part 2 of project specification. Revise all parts of project specification |
+| Completion Criteria: | Finish all the requirements for project specification                                           |
 <!-- 
-| Description | Report project specification |
-|-------------|------------------------------|
+| Description | Report project specification                                                                   |
+|-------------|------------------------------------------------------------------------------------------------|
 |             | Work with part 1 and part 2 of project specification. Revise all parts of project specification|
 |Completion Criteria:| Finish all the requirements for project specification| -->
 
 
 <!--
 ### Khanh & Andres
-| Description | Project web presence on Github|
-|-------------|---------------------------------------|
-|  | Build the GitHub repository for for project web presence|
+| Description | Project web presence on Github                          |
+|-------------|---------------------------------------------------------|
+|             | Build the GitHub repository for for project web presence|
 |Completion Criteria:| Finish the basics requirements for project web presence|
 
 ## Week 5
 ### Khanh & Andres
 | Description | Update the Github repo to website|
-|-------------|---------------------------------------|
-|  | Base on GitHub pages to build a website for project web
+|-------------|-------------------------------------------------------|
+|             | Base on GitHub pages to build a website for project web
 presence|
 |Completion Criteria:| The website contains Project Specification, images,
 videos.|
