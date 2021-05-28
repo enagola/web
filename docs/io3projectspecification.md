@@ -59,6 +59,7 @@ The original schedule for the project, and the proposed milestones go throughout
 # Individual's Tasks
 ## Week 4
 ### Ninh:
+
 | Description | Build a self-balance robot from parts |
-|-------------|----------------------------------------------------------------------------------------------------------------------------------------|
-|             |                                       |
+|-------------|---------------------------------------|
+|       a      |             b                         |
