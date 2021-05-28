@@ -24,3 +24,5 @@ The head of the logistics
 ![image]("Photos/andres.png.jpeg")\
 Application Developer\
 Develop application
+
+<img src="Photos/andres.png.jpeg" height="200">
