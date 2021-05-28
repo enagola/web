@@ -86,12 +86,14 @@ The original schedule for the project, and the proposed milestones go throughout
 | Completion Criteria: | The droid can stand self-balance and move. Schedule the project, including the proposed milestones.|
 
 ### Ethan
+
 | Description          | Report project specification                                                                    |
 |----------------------|-------------------------------------------------------------------------------------------------|
 |                      | Work with part 1 and part 2 of project specification. Revise all parts of project specification |
 | Completion Criteria: | Finish all the requirements for project specification                                           |
 
 ### Khanh & Andres
+
 | Description | Project web presence on Github                          |
 |-------------|---------------------------------------------------------|
 |             | Build the GitHub repository for for project web presence|
