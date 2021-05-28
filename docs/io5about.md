@@ -25,4 +25,4 @@ The head of the logistics
 Application Developer\
 Develop application
 
-<img src="Photos/andres.png.jpeg" height="200">
+<img src="Photos/andres.png.jpeg" height="300">
