@@ -123,4 +123,4 @@ Speech) to talk with human.|
 ### Ninh & Khanh
 | Description | Final report and video.|
 |-------------|---------------------------------------|
-|Completion Criteria:| Finish all the tasks.| -->
+|Completion Criteria:| Finish all the tasks.|
