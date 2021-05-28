@@ -70,57 +70,9 @@ The original schedule for the project, and the proposed milestones go throughout
 
 
 ## Week 5
-### Khanh & Andres
+### Khanh and Andres
 | Description | Update the Github repo to website|
 |-------------|-------------------------------------------------------|
 |             | Base on GitHub pages to build a website for project web
 presence|
-|Completion Criteria:| The website contains Project Specification, images,
-videos.|
-
-### Ethan & Andres
-| Description | Familiar with TensorFlow Object Detection AP on Raspberry pi|
-|-------------|---------------------------------------|
-|Completion Criteria:| Install and TensorFlow Object Detection AP on Raspberry pi, detect some simple objects.|
-
-### Ninh & Khanh
-| Description | Familiar with gTTS( Text To Speech) and Deepspeech (Speech To Text)|
-|-------------|---------------------------------------|
-|Completion Criteria:| Install gTTS( Text To Speech) and Deepspeech (Speech
-To Text), work with some basics commands.|
-
-
-## Week 6
-### Ethan & Andres
-| Description |Implement python code to detect objects and computer vision|
-|-------------|---------------------------------------|
-|Completion Criteria:| Detect some objects, return the labels, and locate these
-objects. The droid should understand all kinds of things
-around it.|
-
-### Ninh & Khanh
-| Description | Implement python code for voice recognition from human and droid’s voices( speaker)|
-|-------------|---------------------------------------|
-|Completion Criteria:| Using Deepspeech (Speech To Text), the droid understands human commands. Droid use gTTS( Text To
-Speech) to talk with human.|
-
-
-
-## Week 7,8
-### Ninh & Khanh
-| Description |Detect objects, interact with a human, receive the voice command. The droid finds an object depending on the order|
-|-------------|---------------------------------------|
-|Completion Criteria:| The droid could do some intelligent tasks.|
-
-
-## Week 9
-### Ethan, Andres, Ninh & Khanh
-| Description |Optimize code, adjust the droid to reach the goal.|
-|-------------|---------------------------------------|
-|Completion Criteria:| The droid could do some intelligent tasks.|
-
-## Week 10
-### Ninh & Khanh
-| Description | Final report and video.|
-|-------------|---------------------------------------|
-|Completion Criteria:| Finish all the tasks.|
+|Completion Criteria:| The website contains Project Specification, images,videos.|
