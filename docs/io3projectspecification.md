@@ -63,27 +63,27 @@ The original schedule for the project, and the proposed milestones go throughout
 | Description | Build a self-balance robot from parts |
 |-------------|---------------------------------------|
 |            | Use all parts usach as motors, aluminum alloy boards, motor brackets, couplings, footholds, circuit control board (Arduino Nano), sensor boards, battery box ultrasonic sensor to make a droid                       |
-| | Update the Raspberry Pi to the top. Connect Raspberry Pi to Arduino |
-|  | Distribute tasks and create project milestones and schedules for the team. |
-| Completion Criteria: | The droid can stand self-balance and move. Schedule the project, including the proposed milestones. |
+|  | Update the Raspberry Pi to the top. Connect Raspberry Pi to Arduino |
+|  | Distribute tasks and create project milestones and schedules for the team.|
+| Completion Criteria: | The droid can stand self-balance and move. Schedule the project, including the proposed milestones.|
 
 ### Ethan
 | Description | Report project specification|
 |-------------|---------------------------------------|
-| Description | Work with part 1 and part 2 of project specification. Revise all parts of project specification|
+|  | Work with part 1 and part 2 of project specification. Revise all parts of project specification|
 |Completion Criteria:| Finish all the requirements for project specification|
 
 ### Khanh & Andres
 | Description | Project web presence on Github|
 |-------------|---------------------------------------|
-| Description | Build the GitHub repository for for project web presence|
+|  | Build the GitHub repository for for project web presence|
 |Completion Criteria:| Finish the basics requirements for project web presence|
 
 ## Week 5
 ### Khanh & Andres
 | Description | Update the Github repo to website|
 |-------------|---------------------------------------|
-| Description | Base on GitHub pages to build a website for project web
+|  | Base on GitHub pages to build a website for project web
 presence|
 |Completion Criteria:| The website contains Project Specification, images,
 videos.|
