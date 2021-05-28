@@ -73,14 +73,16 @@ The original schedule for the project, and the proposed milestones go throughout
 |----------------------|-------------------------------------------------------------------------------------------------|
 |                      | Work with part 1 and part 2 of project specification. Revise all parts of project specification |
 | Completion Criteria: | Finish all the requirements for project specification                                           |
-<!-- 
+
 | Description | Report project specification                                                                   |
 |-------------|------------------------------------------------------------------------------------------------|
 |             | Work with part 1 and part 2 of project specification. Revise all parts of project specification|
-|Completion Criteria:| Finish all the requirements for project specification| -->
+|Completion Criteria:| Finish all the requirements for project specification|
 
 
-<!--
+
+
+
 ### Khanh & Andres
 | Description | Project web presence on Github                          |
 |-------------|---------------------------------------------------------|
