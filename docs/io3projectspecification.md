@@ -62,4 +62,4 @@ The original schedule for the project, and the proposed milestones go throughout
 
 | Description | Build a self-balance robot from parts |
 |-------------|---------------------------------------|
-|       a      |             b                         |
+|       a     |             b                         |
