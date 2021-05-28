@@ -56,4 +56,11 @@ The original schedule for the project, and the proposed milestones go throughout
 |      | Deliverable |Update the website | Ethan, Andres, Khanh, Ninh|
 
 
-
+#Individual's Tasks
+Week 4
+Ninh:
+| Description | Build a self-balance robot from parts |
+|-------------|---------------------------------------|
+|             |  Use all parts usach as motors, aluminum alloy boards,
+motor brackets, couplings, footholds, circuit control
+board (Arduino Nano), sensor boards, battery box, ultrasonic sensor. To make a droid|
