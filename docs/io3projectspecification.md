@@ -67,7 +67,8 @@ The original schedule for the project, and the proposed milestones go throughout
 |  | Update the Raspberry Pi to the top. Connect Raspberry Pi to Arduino |
 |  | Distribute tasks and create project milestones and schedules for the team.|
 | Completion Criteria: | The droid can stand self-balance and move. Schedule the project, including the proposed milestones.|
- 
+
+### Ethan
 | Description          | Report project specification                                                                    |
 |----------------------|-------------------------------------------------------------------------------------------------|
 |                      | Work with part 1 and part 2 of project specification. Revise all parts of project specification |
