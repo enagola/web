@@ -63,25 +63,26 @@ The original schedule for the project, and the proposed milestones go throughout
 | Description | Build a self-balance robot from parts |
 |-------------|---------------------------------------|
 |            | Use all parts usach as motors, aluminum alloy boards, motor brackets, couplings, footholds, circuit control board (Arduino Nano), sensor boards, battery box ultrasonic sensor to make a droid                       |
-| Description | Update the Raspberry Pi to the top. Connect Raspberry
-Pi to Arduino |
-| Description | Distribute tasks and create project milestones and schedules for the team. |
-| Completion Criteria: | The droid can stand self-balance and move. Schedule the
-project, including the proposed milestones. |
+| | Update the Raspberry Pi to the top. Connect Raspberry Pi to Arduino |
+|  | Distribute tasks and create project milestones and schedules for the team. |
+| Completion Criteria: | The droid can stand self-balance and move. Schedule the project, including the proposed milestones. |
 
 ### Ethan
 | Description | Report project specification|
+|-------------|---------------------------------------|
 | Description | Work with part 1 and part 2 of project specification. Revise all parts of project specification|
 |Completion Criteria:| Finish all the requirements for project specification|
 
 ### Khanh & Andres
 | Description | Project web presence on Github|
+|-------------|---------------------------------------|
 | Description | Build the GitHub repository for for project web presence|
 |Completion Criteria:| Finish the basics requirements for project web presence|
 
 ## Week 5
 ### Khanh & Andres
 | Description | Update the Github repo to website|
+|-------------|---------------------------------------|
 | Description | Base on GitHub pages to build a website for project web
 presence|
 |Completion Criteria:| The website contains Project Specification, images,
@@ -89,25 +90,27 @@ videos.|
 
 ### Ethan & Andres
 | Description | Familiar with TensorFlow Object Detection AP on Raspberry pi|
+|-------------|---------------------------------------|
 |Completion Criteria:| Install and TensorFlow Object Detection AP on Raspberry pi, detect some simple objects.|
 
 ### Ninh & Khanh
-| Description | Familiar with gTTS( Text To Speech) and Deepspeech
-(Speech To Text)|
+| Description | Familiar with gTTS( Text To Speech) and Deepspeech (Speech To Text)|
+|-------------|---------------------------------------|
 |Completion Criteria:| Install gTTS( Text To Speech) and Deepspeech (Speech
 To Text), work with some basics commands.|
 
 
 ## Week 6
 ### Ethan & Andres
-| Description |Implement python code to detect objects and computer
-vision|
+| Description |Implement python code to detect objects and computer vision|
+|-------------|---------------------------------------|
 |Completion Criteria:| Detect some objects, return the labels, and locate these
 objects. The droid should understand all kinds of things
 around it.|
 
 ### Ninh & Khanh
 | Description | Implement python code for voice recognition from human and droid’s voices( speaker)|
+|-------------|---------------------------------------|
 |Completion Criteria:| Using Deepspeech (Speech To Text), the droid understands human commands. Droid use gTTS( Text To
 Speech) to talk with human.|
 
@@ -115,22 +118,24 @@ Speech) to talk with human.|
 
 ## Week 7,8
 ### Ninh & Khanh
-| Description |Detect objects, interact with a human, receive the voice
-command. The droid finds an object depending on the
-order|
+| Description |Detect objects, interact with a human, receive the voice command. The droid finds an object depending on the order|
+|-------------|---------------------------------------|
 |Completion Criteria:| The droid could do some intelligent tasks.|
 
 ### Ethan, Andres & Ninh
 | Description | Develop website to control and monitor the droid|
+|-------------|---------------------------------------|
 |Completion Criteria:| Control and view the environment around the droid.|
 
 
 ## Week 9
 ### Ethan, Andres, Ninh & Khanh
 | Description |Optimize code, adjust the droid to reach the goal.|
+|-------------|---------------------------------------|
 |Completion Criteria:| The droid could do some intelligent tasks.|
 
 ## Week 10
 ### Ninh & Khanh
 | Description | Final report and video.|
+|-------------|---------------------------------------|
 |Completion Criteria:| Finish all the tasks.|
