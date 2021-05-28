@@ -77,7 +77,6 @@ The original schedule for the project, and the proposed milestones go throughout
 |  | Distribute tasks and create project milestones and schedules for the team.|
 | Completion Criteria: | The droid can stand self-balance and move. Schedule the project, including the proposed milestones.|
 
-
 ## Week 5
 ### Khanh and Andres
 | Description | Update the Github repo to website |
