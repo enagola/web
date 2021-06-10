@@ -6,9 +6,6 @@
 
 # Modified by Ninh Tran.
 # Import packages
-
-
-# Import packages
 import os
 import cv2
 import numpy as np
@@ -25,6 +22,102 @@ tf.disable_v2_behavior()
 
 import argparse
 import sys
+
+import curses
+
+import time
+import picamera
+import serial
+import speech_recognition as sr
+from PCA9685 import PCA9685
+import RPi.GPIO as GPIO
+
+# Must connect Raspberry-Pi(USB) and Ardunio(USB) 
+port = serial.Serial("/dev/ttyACM0", baudrate=9600)
+
+
+# get the curses screen window
+screen = curses.initscr()
+
+# turn off input echoing
+curses.noecho()
+
+# respond to keys immediately (don't wait for enter)
+curses.cbreak()
+
+# map arrow keys to special values
+screen.keypad(True)
+
+#setting start up serrvo positions
+pwm = PCA9685()
+pwm.setPWMFreq(50)
+
+max_PAN      = 180
+max_TILT     = 180
+min_PAN      = 10
+min_TILT     = 10
+    
+step_PAN     = 1
+step_TILT    = 1
+current_PAN  = 120
+current_TILT = 120
+pwm.setRotationAngle(0, current_PAN) #PAN    
+pwm.setRotationAngle(1, current_TILT) #TILT
+
+voice_in = 0
+
+
+def text_to_command(text):
+    if any(sub in text for sub in LEFT):        
+        myobj = gTTS(text="Alright, I will turn left", lang='en', slow=False)
+        myobj.save("audio.mp3")
+        os.system("mpg321 audio.mp3 >/dev/null 2>&1")    
+        return 'l'
+    elif any(sub in text for sub in RIGHT):
+        myobj = gTTS(text="Alright, I will turn right", lang='en', slow=False)
+        myobj.save("audio.mp3")
+        os.system("mpg321 audio.mp3 >/dev/null 2>&1")              
+        return 'i'
+    elif any(sub in text for sub in FORWARD):
+        myobj = gTTS(text="Alright, I will move forward", lang='en', slow=False)
+        myobj.save("audio.mp3")
+        os.system("mpg321 audio.mp3 >/dev/null 2>&1")      
+        return 'f'
+    elif any(sub in text for sub in BACKWARD):
+        myobj = gTTS(text="Alright, I will move backward", lang='en', slow=False)
+        myobj.save("audio.mp3")
+        os.system("mpg321 audio.mp3 >/dev/null 2>&1")    
+        return 'b'    
+    elif any(sub in text for sub in STOP):
+        myobj = gTTS(text="Alright, I will stop here", lang='en', slow=False)
+        myobj.save("audio.mp3")
+        os.system("mpg321 audio.mp3 >/dev/null 2>&1")              
+        return 's'   
+    else:
+        return 'No Command'
+
+
+def speech_to_text(run_time = 3, enable_command = True ):
+    required = -1
+    for index, name in enumerate(sr.Microphone.list_microphone_names()):
+        if "pulse" in name:
+            required= index
+    r = sr.Recognizer()
+    with sr.Microphone(device_index=required) as source:     
+        audio = r.listen(source, phrase_time_limit = run_time)
+    try:
+        input = r.recognize_google(audio)  
+        
+        print(input)
+        if(enable_command):      
+            return text_to_command(input)        
+        else:
+            return input
+    except sr.UnknownValueError:
+        return ''
+    except sr.RequestError as e:
+        return ''
+
 
 # Set up camera constants
 IM_WIDTH = 1280
@@ -117,6 +210,14 @@ font = cv2.FONT_HERSHEY_SIMPLEX
 # for USB.
 
 ### Picamera ###
+
+ 
+
+voice_int = speech_to_text(3,False)  
+
+
+
+voice_command= "" 
 if camera_type == 'picamera':
     # Initialize Picamera and grab reference to the raw capture
     camera = PiCamera()
@@ -127,9 +228,7 @@ if camera_type == 'picamera':
     rawCapture.truncate(0)
 
     for frame1 in camera.capture_continuous(rawCapture, format="bgr",use_video_port=True):
-
-        t1 = cv2.getTickCount()
-        
+        t1 = cv2.getTickCount()        
         # Acquire frame and expand frame dimensions to have shape: [1, None, None, 3]
         # i.e. a single-column array, where each item in the column has the pixel RGB value
         frame = np.copy(frame1.array)
@@ -170,23 +269,51 @@ if camera_type == 'picamera':
 
         rawCapture.truncate(0)
 
-        str =""
+        text =""
         for l in labels:
-            str = str + " a " + l[0] + " and "
-        str = str[:-4]  
-        if(str):
-            if not 'cup' in str:                                
-                str = "I saw " + str
-                print(str)
-                myobj = gTTS(text=str, lang='en', slow=False)
-                myobj.save("rd1.mp3")
-                os.system("mpg321 rd1.mp3 >/dev/null 2>&1")      
+            text = text + " a " + l[0] + " and "
+        text = text[:-4]  
+        if(text):
+            if not 'keyboard' in text:                                
+                text = "I saw " + text
+                print(text)
+                myobj = gTTS(text=text, lang='en', slow=False)
+                myobj.save("audio.mp3")
+                os.system("mpg321 audio.mp3 >/dev/null 2>&1")  
+                print('Go Go Go') 
+                time.sleep(4) 
+
             else:       
-                str = "Yes Sir I found a cup for you sir "
-                print(str)
-                myobj = gTTS(text=str, lang='en', slow=False)
-                myobj.save("rd1.mp3")
-                os.system("mpg321 rd1.mp3 >/dev/null 2>&1") 
+                text = "Yes Sir I found a keyboard for you sir "
+                print(text)
+                myobj = gTTS(text=text, lang='en', slow=False)
+                myobj.save("audio.mp3")
+                os.system("mpg321 audio.mp3 >/dev/null 2>&1") 
+                print('Go Go Go') 
+                time.sleep(6) 
+        
+        if(voice_in <12):
+            voice_in = voice_in +1
+            print(voice_in)
+        if(voice_in == 12):
+            voice_in = voice_in +1
+            while True:
+                audio_text = 'What can I do for you sir'
+                myobj = gTTS(text= audio_text, lang='en', slow=False)
+                myobj.save("audio.mp3")
+                os.system("mpg321 audio.mp3 >/dev/null 2>&1") 
+
+                print("Say somethings : ")
+                voice_int = speech_to_text(3,False)
+                print(voice_int)    
+                if 'find me a keyboard'in voice_int:
+                    audio_text = 'Yes Sir, I will find a keyboard for you Sir'
+                    myobj = gTTS(text= audio_text, lang='en', slow=False)
+                    myobj.save("audio.mp3")
+                    os.system("mpg321 audio.mp3 >/dev/null 2>&1")  
+                    voice_in = 0                             
+                    break;
+
     camera.close()
 
 ### USB webcam ###
