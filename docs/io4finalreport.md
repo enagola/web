@@ -50,7 +50,7 @@ Hardware component for the self-balancing robot.
 
 
 <figure align="center">
-  <img src="Photos/droid.png" width="50%" height="50%" alt="my alt text"/>
+  <img src="Photos/1.jpg" width="50%" height="50%" alt="my alt text"/>
   <figcaption>The body of the final droid.</figcaption>
 </figure>
 
