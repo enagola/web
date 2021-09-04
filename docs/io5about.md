@@ -1,6 +1,5 @@
 ---
 title: About Us
-layout: template
 filename: io5about
 pageheader: page-header-about
 --- 
