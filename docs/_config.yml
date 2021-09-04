@@ -2,8 +2,6 @@ theme: jekyll-theme-cayman
 header_pages:
  - index.md
  - aboutme.md
-github:
-  is_project_page: false
 
 
 
