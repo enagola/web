@@ -1,7 +1,7 @@
 ---
 title: Ethan Nagola
 layout: template
-filename: aboutme
+filename: EthanNagola
 pageheader: page-header-about
 --- 
 # About Me
