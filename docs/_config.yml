@@ -1,10 +1,9 @@
 theme: jekyll-theme-cayman
 header_pages:
  - index.md
- - io2presentation.md
- - io3projectspecification.md
- - io4finalreport.md
  - io5about.md
+github:
+  is_project_page: false
 
 
 
