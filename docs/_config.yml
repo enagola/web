@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 header_pages:
- - index.md
  - aboutme.md
 
 
