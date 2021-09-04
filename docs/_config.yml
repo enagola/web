@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 header_pages:
  - index.md
- - io5about.md
+ - aboutme.md
 github:
   is_project_page: false
 
