@@ -1,6 +1,28 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">    </script>
+    <script> 
+    $(document).ready(function(){
+    $("#flip").click(function(){
+        $("#panel").slideToggle("slow");
+    });
+    });
+    </script>
+
+    <style> 
+    #panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+    }
+
+    #panel {
+    padding: 50px;
+    display: none;
+    }
+    </style>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,6 +50,8 @@
       <a href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a>
 
 
+      <div id="flip">Click to slide down panel</div>
+      <div id="panel">Hello world!</div>
 
     </section>
 
