@@ -9,7 +9,7 @@ pageheader: page-header-about
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Ethan Nagola</b></td>
-    <td><b style="font-size:30px">Master of Sciences</b></td>
+    <td><b style="font-size:30px">About Me</b></td>
  </tr>
  <tr>
     <td><img src="Photos/EthanPic.jpeg" width="300" height="380"></td>
