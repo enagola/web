@@ -5,7 +5,7 @@ filename: ethan
 pageheader: page-header-about
 --- 
 
-<table border="0">
+<table border="0" style="width:100px">
  <tr>
     <td><b style="font-size:30px">Ethan Nagola</b></td>
     <td><b style="font-size:30px">About Me</b></td>
