@@ -12,9 +12,9 @@ pageheader: page-header-about
  </tr>
  <tr>
     <td style="width:50%;"><img src="Photos/EthanPic.jpeg" width="400" height="500"></td>
-    <td style="width:50%;"><p> I graduated from UCSD with a Major in Computer Science\n
-     and Minor in Cognitive sciences after 3 years in June of 2021.\n
-     I am currently working on graduating as a Masters of Sciences\n
-     with a specialization in Artificial Intelligence by June 2022.\n</p></td>
+    <td style="width:50%;"><p> I graduated from UCSD with a Major in Computer Science
+     and Minor in Cognitive sciences after 3 years in June of 2021.
+     I am currently working on graduating as a Masters of Sciences
+     with a specialization in Artificial Intelligence by June 2022.</p></td>
  </tr>
 </table>
