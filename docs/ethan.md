@@ -5,8 +5,6 @@ filename: ethan
 pageheader: page-header-about
 --- 
 # About Me
-- Ethan Nagola. enagola@ucsd.edu\
-![image](/Photos/EthanPic.jpeg)
 
 <table border="0">
  <tr>
