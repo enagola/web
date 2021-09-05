@@ -4,7 +4,6 @@ layout: template
 filename: ethan
 pageheader: page-header-about
 --- 
-# About Me
 
 <table border="0">
  <tr>
