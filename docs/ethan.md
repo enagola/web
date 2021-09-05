@@ -12,7 +12,7 @@ pageheader: page-header-about
     <td><b style="font-size:30px">Master of Sciences</b></td>
  </tr>
  <tr>
-    <td><img src="/Photos/EthanPic.jpeg" width="400" height="500"></td>
+    <td><img src="https://github.com/enagola/web/blob/main/Photos/EthanPic.jpeg" width="400" height="500"></td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
