@@ -14,8 +14,7 @@ pageheader: page-header-about
     <td><b style="font-size:30px">Master of Sciences</b></td>
  </tr>
  <tr>
-    <img src="/Photos/EthanPic.jpeg">
-    <td>Lorem ipsum ...</td>
+    <td><img src="/Photos/EthanPic.jpeg"></td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
