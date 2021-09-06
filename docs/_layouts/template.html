@@ -10,6 +10,33 @@
           text.style.display = "none";
         }
       }
+      
+      function toggleText2() {
+        var text = document.getElementById("demo2");
+        if (text.style.display === "none") {
+          text.style.display = "block";
+        } else {
+          text.style.display = "none";
+        }
+      }
+      
+      function toggleText3() {
+        var text = document.getElementById("demo3");
+        if (text.style.display === "none") {
+          text.style.display = "block";
+        } else {
+          text.style.display = "none";
+        }
+      }
+      
+      function toggleText4() {
+        var text = document.getElementById("demo4");
+        if (text.style.display === "none") {
+          text.style.display = "block";
+        } else {
+          text.style.display = "none";
+        }
+      }
     </script>
     <style>
       .morecontent span {
@@ -49,14 +76,14 @@
       <div onclick="toggleText()">Occupations Classifier</div>
       <div id='demo' style='display: none'>This is the description of the project. <a href="https://enagola.github.io/web/CSE203B.pdf" type="application/pdf" class="btn">Occupations Classifier</a></div>
 
-      <div>RD-1 Track and Retrieve Robot</div>
-      <div>This is the description of the project. <a href="https://enagola.github.io/web/Final_report_cse145.pdf" class="btn">RD-1 Track and Retrieve Robot</a></div>
+      <div onclick="toggleText2()">RD-1 Track and Retrieve Robot</div>
+      <div id='demo2' style='display: none'>This is the description of the project. <a href="https://enagola.github.io/web/Final_report_cse145.pdf" class="btn">RD-1 Track and Retrieve Robot</a></div>
 
-      <div>Baby Steps</div>
-      <div>This is the description of the project. <a href="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" class="btn">Baby Steps</a></div>
+      <div onclick="toggleText3()">Baby Steps</div>
+      <div id='demo3' style='display: none'>This is the description of the project. <a href="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" class="btn">Baby Steps</a></div>
       
-      <div>T.H.R.I.V.E. goal app</div>
-      <div>This is the description of the project. <a href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a></div>
+      <div onclick="toggleText4()">T.H.R.I.V.E. goal app</div>
+      <div id='demo4' style='display: none'>This is the description of the project. <a href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a></div>
    
     </section>
 
