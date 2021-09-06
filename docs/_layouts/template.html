@@ -2,42 +2,14 @@
 <html lang="en-us">
   <head>
     <script> 
-        $(document).ready(function() {
-        // Configure/customize these variables.
-        var showChar = 100;  // How many characters are shown by default
-        var ellipsestext = "...";
-        var moretext = "Show more >";
-        var lesstext = "Show less";
-
-
-        $('.more').each(function() {
-            var content = $(this).html();
-
-            if(content.length > showChar) {
-
-                var c = content.substr(0, showChar);
-                var h = content.substr(showChar, content.length - showChar);
-
-                var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>' + h + '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
-
-                $(this).html(html);
-            }
-
-        });
-
-        $(".morelink").click(function(){
-          if($(this).hasClass("less")) {
-              $(this).removeClass("less");
-              $(this).html(moretext);
-          } else {
-              $(this).addClass("less");
-              $(this).html(lesstext);
-          }
-            $(this).parent().prev().toggle();
-            $(this).prev().toggle();
-            return false;
-          });
-        });
+      function toggleText() {
+        var text = document.getElementById("demo");
+        if (text.style.display === "none") {
+          text.style.display = "block";
+        } else {
+          text.style.display = "none";
+        }
+      }
     </script>
     <style>
       .morecontent span {
@@ -74,8 +46,8 @@
       <a onclick="window.open('https://youtu.be/BbzbG_M_1v0?t=199')" class="btn">T.H.R.I.V.E. goal app</a>
 
 
-      <div>Occupations Classifier</div>
-      <div>This is the description of the project. <a href="https://enagola.github.io/web/CSE203B.pdf" type="application/pdf" class="btn">Occupations Classifier</a></div>
+      <div onclick="toggleText()">Occupations Classifier</div>
+      <div id='demo' style='display: none'>This is the description of the project. <a href="https://enagola.github.io/web/CSE203B.pdf" type="application/pdf" class="btn">Occupations Classifier</a></div>
 
       <div>RD-1 Track and Retrieve Robot</div>
       <div>This is the description of the project. <a href="https://enagola.github.io/web/Final_report_cse145.pdf" class="btn">RD-1 Track and Retrieve Robot</a></div>
