@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: coral;
+  background-color: lightpurple;
 }
 .nav_li 
 {
@@ -12,7 +12,7 @@
 }
 .nav_li:hover 
 {
-  background-color: coral;
+  background-color: purple;
 }
 .nav_a 
 {
