@@ -8,12 +8,12 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: black; 
-  background: white;
+  background: lightgreen;
   animation: fadebackground 1s;
 }
 @keyframes fadebackground {
-  from {background-color: #FCE97F;}
-  to {background-color: #2EB07B;}
+  from {background-color: grey;}
+  to {background-color: lightgreen;}
 }}
 
 .fade-in-text {
