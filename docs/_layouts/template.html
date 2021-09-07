@@ -5,19 +5,17 @@
     <script>
       function toggleText() {
         var text = document.getElementById("demo");
-        if (text.type === "hidden") {
-          $("#demo").fadeIn();
-          text.type = "shown";
+        $("#demo").fadeIn();
+        text.type = "shown";
 
-          $("#demo2").fadeOut();
-          $("#demo2").type = "hidden";
-          
-          $("#demo3").fadeOut();
-          $("#demo3").type = "hidden";
-          
-          $("#demo4").fadeOut();
-          $("#demo4").type = "hidden";
-        } 
+        $("#demo2").fadeOut();
+        $("#demo2").type = "hidden";
+
+        $("#demo3").fadeOut();
+        $("#demo3").type = "hidden";
+
+        $("#demo4").fadeOut();
+        $("#demo4").type = "hidden";
       }
       
       function toggleText2() {
