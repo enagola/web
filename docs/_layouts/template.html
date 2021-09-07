@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    <script> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"> 
       function toggleText() {
         var text = document.getElementById("demo");
         if (text.style.display === "none") {
           text.style.display = "block";
+          text.fadeIn();
         } else {
           text.style.display = "none";
+          text.fadeOut();
         }
       }
       
