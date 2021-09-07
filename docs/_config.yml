@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 header_pages:
  - ethan.md
+ - projects.md
 
 
 
