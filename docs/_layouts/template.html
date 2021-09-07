@@ -4,37 +4,45 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"> 
       function toggleText() {
         var text = document.getElementById("demo");
-        if (text.style.display === "none") {
-          text.style.display = "block";
+        if (text.type === "hidden") {
+          $("#demo").fadeIn();
+          text.type = "shown";
         } else {
-          text.style.display = "none";
+          $("#demo").fadeOut();
+          text.type = "hidden"
         }
       }
       
       function toggleText2() {
         var text = document.getElementById("demo2");
-        if (text.style.display === "none") {
-          text.style.display = "block";
+        if (text.type === "hidden") {
+          $("#demo").fadeIn();
+          text.type = "shown";
         } else {
-          text.style.display = "none";
+          $("#demo").fadeOut();
+          text.type = "hidden"
         }
       }
       
       function toggleText3() {
         var text = document.getElementById("demo3");
-        if (text.style.display === "none") {
-          text.style.display = "block";
+        if (text.type === "hidden") {
+          $("#demo").fadeIn();
+          text.type = "shown";
         } else {
-          text.style.display = "none";
+          $("#demo").fadeOut();
+          text.type = "hidden"
         }
       }
       
       function toggleText4() {
         var text = document.getElementById("demo4");
-        if (text.style.display === "none") {
-          text.style.display = "block";
+        if (text.type === "hidden") {
+          $("#demo").fadeIn();
+          text.type = "shown";
         } else {
-          text.style.display = "none";
+          $("#demo").fadeOut();
+          text.type = "hidden"
         }
       }
     </script>
