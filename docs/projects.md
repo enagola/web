@@ -17,8 +17,8 @@ pageheader: page-header-about
           <h2 onclick="toggleText3()">Baby Steps &#9; &or;</h2>
           <div type="hidden" id='demo3' style='display: none;'><p>This is the description of the project.</p> <a href="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" class="btn">Baby Steps</a></div>
 
-          <h2 onclick="toggleText4()" style='display: none;'>T.H.R.I.V.E. goal app &#9; &or;</h2>
-          <div type="hidden" id='demo4'><p>This is the description of the project.</p> <a href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a></div>
+          <h2 onclick="toggleText4()">T.H.R.I.V.E. goal app &#9; &or;</h2>
+          <div type="hidden" id='demo4' style='display: none;'><p>This is the description of the project.</p> <a href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a></div>
 
 </div>
 
