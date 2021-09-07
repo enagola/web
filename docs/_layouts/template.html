@@ -54,36 +54,23 @@
         background-color: lightblue; /* For browsers that do not support gradients */
         background-image: linear-gradient(to right, lightgreen , lightblue);
       }
-      .split {
-        height: 100%;
+      * {
+        box-sizing: border-box;
+      }
+
+      /* Create two equal columns that floats next to each other */
+      .column {
+        float: left;
         width: 50%;
-        position: fixed;
-        z-index: 1;
-        top: 0;
-        overflow-x: hidden;
-        padding-top: 20px;
+        padding: 10px;
+        height: 300px; /* Should be removed. Only for demonstration */
       }
 
-      .left {
-        left: 0;
-        background-color: white;
-      }
-
-      .right {
-        right: 0;
-      }
-
-      .centered {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        text-align: center;
-      }
-
-      .centered img {
-        width: 150px;
-        border-radius: 50%;
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
       }
     </style>
     <meta charset="UTF-8">
@@ -98,20 +85,17 @@
   
   <body>
     
-    <div id="grad1"></div>
-    
-    <div class="split left">
-      <div class="centered">
-        
+    <div class="row">
+      <div id="grad1"></div>
+
+      <div class="column">
         <section class="main-content">      
           {{ content }}
         </section>
       </div>
-    </div>
 
-    <div class="split right">
-      <div class="centered">
-        
+      <div class="column">
+
          <section style='background-image: linear-gradient(to top left, lightgreen, lightblue);'>
           <h1 class="project-name">My Projects</h1>
 
@@ -126,7 +110,7 @@
 
           <h2 class='relative' onclick="toggleText4()">T.H.R.I.V.E. goal app &#9; &or;</h2>
           <div id='demo4' style='display: none;background-image: linear-gradient(to top left, lightgreen, lightblue);'><p>This is the description of the project.</p> <a href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a></div>
-   
+
         </section>
       </div>
     </div>
