@@ -12,12 +12,12 @@
 }
 .nav_li:hover 
 {
-  background-color: #088F8F;
+  background-color: #7FFFD4;;
 }
 .nav_a 
 {
   display: block;
-  color:#7FFFD4;
+  color:#088F8F;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
