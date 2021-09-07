@@ -29,7 +29,7 @@
   font-weight: bold;
 }
 
-.nav_li .current {
+.nav_li:current {
   background-color: blue; 
 }
 
