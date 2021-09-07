@@ -7,7 +7,51 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: black; }
+  color: black; 
+  background: white;
+  animation: fadebackground 1s;
+}
+@keyframes fadebackground {
+  from {background-color: #FCE97F;}
+  to {background-color: #2EB07B;}
+}}
+
+.fade-in-text {
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 150px;
+  color: black;
+  animation: fadeIn linear 7s;
+  -webkit-animation: fadeIn linear 7s;
+  -moz-animation: fadeIn linear 7s;
+  -o-animation: fadeIn linear 7s;
+  -ms-animation: fadeIn linear 7s;
+}
+
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
 
 a {
   color: #1e6bb8;
@@ -299,3 +343,5 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+
