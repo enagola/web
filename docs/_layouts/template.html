@@ -54,6 +54,14 @@
         background-color: lightblue; /* For browsers that do not support gradients */
         background-image: linear-gradient(to right, lightgreen , lightblue);
       }
+      body {
+        background: white;
+        animation: fadebackground 1s;
+      }
+      @keyframes fadebackground {
+        from {background-color: #FCE97F;}
+        to {background-color: #2EB07B;}
+      }
     </style>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
