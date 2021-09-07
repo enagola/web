@@ -45,6 +45,11 @@
       .morelink {
           display: block;
       }
+      #grad1 {
+        height: 200px;
+        background-color: lightblue; /* For browsers that do not support gradients */
+        background-image: linear-gradient(lightblue, lightgreen);
+      }
     </style>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
@@ -69,7 +74,7 @@
       <h1 class="project-name">My Projects</h1>
 
       <h2 onclick="toggleText()">Occupations Classifier &#9; &or;</h2>
-      <body id='demo' style='display: none; background-color:white;'><p>This is the description of the project.</p> <a href="https://enagola.github.io/web/CSE203B.pdf" type="application/pdf" class="btn">Occupations Classifier</a></body>
+      <body id='demo' type='grad1' style='display: none;'><p>This is the description of the project.</p> <a href="https://enagola.github.io/web/CSE203B.pdf" type="application/pdf" class="btn">Occupations Classifier</a></body>
 
       <h2 onclick="toggleText2()">RD-1 Track and Retrieve Robot &#9; &or;</h2>
       <body id='demo2' style='display: none; background-color:white;'><p>This is the description of the project.</p> <a href="https://enagola.github.io/web/Final_report_cse145.pdf" class="btn">RD-1 Track and Retrieve Robot</a></body>
