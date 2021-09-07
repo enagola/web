@@ -49,6 +49,11 @@
         position: relative;
         left: 300px;
       }
+      #grad1 {
+        height: 100px;
+        background-color: lightblue; /* For browsers that do not support gradients */
+        background-image: linear-gradient(to right, lightgreen , lightblue);
+      }
     </style>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
@@ -61,6 +66,8 @@
   </head>
   
   <body>
+    
+    <div id="grad1"></div>
     
     <section class="main-content">      
       {{ content }}
