@@ -5,7 +5,7 @@ filename: projects
 pageheader: page-header-about
 --- 
  
-<section style='background-image: linear-gradient(to top left, lightgreen, lightblue);'>
+<div style='background-image: linear-gradient(to top left, lightgreen, lightblue);'>
           <h1 class="project-name">My Projects</h1>
 
           <h2 class='relative'>About Me</h2>
@@ -22,5 +22,5 @@ pageheader: page-header-about
           <h2 class='relative' onclick="toggleText4()">T.H.R.I.V.E. goal app &#9; &or;</h2>
           <div id='demo4' style='display: none;background-image: linear-gradient(to top left, lightgreen, lightblue);'><p>This is the description of the project.</p> <a href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a></div>
 
-        </section>
+        </div>
 
