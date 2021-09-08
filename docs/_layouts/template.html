@@ -17,15 +17,15 @@
         toggleText(e);
        }
       function toggleText(e) {
-        var text = document.getElementById("demo" + e);
+        var text = document.getElementById(["demo",e].join(''));
         
         for(var i = 1; i <= 4; i++) {
           if(i.toString() === e) {
             text.fadeIn();
             text.type = "shown";
           } else {
-            $("#demo" + i.toString()).fadeOut(); 
-            $("#demo" + i.toString()).type = "hidden"; 
+            $(["#demo",i.toString()].join('')).fadeOut(); 
+            $(["#demo",i.toString()].join('')).type = "hidden"; 
           }
         }
       }
