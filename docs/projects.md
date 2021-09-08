@@ -20,5 +20,4 @@ pageheader: page-header-about
 
     <div type="hidden" id='demo4' style='display: none;'><p>This is the description of the project.</p> <a href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a></div>
 </body>
-</div>
 
