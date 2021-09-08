@@ -11,7 +11,7 @@ pageheader: page-header-about
   <li style="display: inline;padding-left:1em;width: 25%;"><a onclick="toggleNav('4')" id='4'>T.H.R.I.V.E. goal app</a></li>
 </ul>
 
-<body>
+<body style="padding-top: 25px;">
     <div type="hidden" id='demo' style='display: none;text-align: center;'><p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://enagola.github.io/web/CSE203B.pdf" type="application/pdf" class="btn">Occupations Classifier</a></div>
     
     <div type="hidden" id='demo2' style='display: none;text-align: center;'><p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://enagola.github.io/web/Final_report_cse145.pdf" class="btn">RD-1 Track and Retrieve Robot</a></div>
