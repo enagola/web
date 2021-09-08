@@ -15,9 +15,7 @@
        }
       function toggleText() {
         var text = document.getElementById("demo");
-        $("#demo").fadeIn();
-        text.type = "shown";
-
+        
         $("#demo2").fadeOut();
         $("#demo2").type = "hidden";
 
@@ -26,13 +24,13 @@
 
         $("#demo4").fadeOut();
         $("#demo4").type = "hidden";
+        
+        $("#demo").fadeIn();
+        text.type = "shown";
       }
       
       function toggleText2() {
         var text = document.getElementById("demo2");
-        $("#demo2").fadeIn();
-        text.type = "shown";
-
         $("#demo").fadeOut();
         $("#demo").type = "hidden";
 
@@ -41,13 +39,16 @@
 
         $("#demo4").fadeOut();
         $("#demo4").type = "hidden";
+        
+        $("#demo2").fadeIn();
+        text.type = "shown";
+
+        
       }
       
       function toggleText3() {
         var text = document.getElementById("demo3");
-        $("#demo3").fadeIn();
-        text.type = "shown";
-
+        
         $("#demo").fadeOut();
         $("#demo").type = "hidden";
 
@@ -56,13 +57,15 @@
 
         $("#demo4").fadeOut();
         $("#demo4").type = "hidden";
+        
+        $("#demo3").fadeIn();
+        text.type = "shown";
+
       }
       
       function toggleText4() {
         var text = document.getElementById("demo4");
-        $("#demo4").fadeIn();
-        text.type = "shown";
-
+        
         $("#demo").fadeOut();
         $("#demo").type = "hidden";
 
@@ -71,6 +74,9 @@
 
         $("#demo3").fadeOut();
         $("#demo3").type = "hidden";
+        
+        $("#demo4").fadeIn();
+        text.type = "shown";
       }
     </script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
