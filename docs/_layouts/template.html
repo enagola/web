@@ -8,22 +8,36 @@
         for(var i = 0; i < texts.length; i++) {
           if(texts[i].id === e) {
             texts[i].classList.add('active');
+            if(i == 1) {
+              toggleText(); 
+            } else if(i == 2) {
+              toggleText2(); 
+            } else if(i == 3) {
+              toggleText3(); 
+            } else {
+              toggleText4(); 
+            }
           } else {
             texts[i].classList.remove('active');
           }
         }       
-        toggleText2();   
+          
       }
       
       function toggleText() {
         var text = document.getElementById("demo");
+        $("#demo2").fadeOut();
+        $("#demo2").type = "hidden";
+
+        $("#demo3").fadeOut();
+        $("#demo3").type = "hidden";
+
+        $("#demo4").fadeOut();
+        $("#demo4").type = "hidden";
         
-        for(var i = 1; i <= 4; i++) {
-          if(i.toString() === e) {
-            text.fadeIn();
-            text.type = "shown";
-          }
-        }
+        $("#demo").fadeIn();
+        text.type = "shown";
+
       }
       
       function toggleText2() {
