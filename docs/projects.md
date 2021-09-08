@@ -4,7 +4,7 @@ layout: template
 filename: projects
 pageheader: page-header-about
 --- 
-<ul style="display: flex">
+<ul>
   <li><a onclick="toggleNav('1')" id='1' href="#home">Occupations Classifier</a></li>
   <li><a onclick="toggleNav('2')" id='2' href="#news">RD-1 Track and Retrieve Robot</a></li>
   <li><a onclick="toggleNav('3')" id='3' href="#contact">Baby Step</a></li>
