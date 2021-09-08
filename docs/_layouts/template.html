@@ -8,11 +8,13 @@
         for(var i = 0; i < texts.length; i++) {
           if(texts[i].id === e) {
             texts[i].classList.add('active');
-            toggleText(e);
           } else {
             texts[i].classList.remove('active');
           }
         }
+        
+        
+        toggleText(e);
        }
       function toggleText(e) {
         var text = document.getElementById("demo" + e);
