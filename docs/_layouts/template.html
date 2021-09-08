@@ -11,17 +11,13 @@
           } else {
             texts[i].classList.remove('active');
           }
-        }
-        
-        
+        }       
         var text = document.getElementById("demo");
-
         text.fadeIn();
-        text.type = "shown";
-
-        
+        text.type = "shown";   
       }
-      function toggleText(e) {
+      
+      function toggleText() {
         var text = document.getElementById("demo");
         
         for(var i = 1; i <= 4; i++) {
