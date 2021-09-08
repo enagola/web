@@ -5,10 +5,10 @@ filename: projects
 pageheader: page-header-about
 --- 
 <ul>
-  <li><a onclick="toggleNav('home')" id='home' href="#home">Home</a></li>
-  <li><a onclick="toggleNav('news')" id='news' class="active" href="#news">News</a></li>
-  <li><a onclick="toggleNav('contact')" id='contact' href="#contact">Contact</a></li>
-  <li><a onclick="toggleNav('about')" id='about' href="#about">About</a></li>
+  <li><a onclick="toggleNav('1')" id='1' href="#home">Occupations Classifier</a></li>
+  <li><a onclick="toggleNav('2')" id='2' href="#news">RD-1 Track and Retrieve Robot</a></li>
+  <li><a onclick="toggleNav('3')" id='3' href="#contact">Baby Step</a></li>
+  <li><a onclick="toggleNav('4')" id='4' href="#about">T.H.R.I.V.E. goal app</a></li>
 </ul>
 
 <div class="row">
