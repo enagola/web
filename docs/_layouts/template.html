@@ -17,15 +17,12 @@
         toggleText(e);
        }
       function toggleText(e) {
-        var text = document.getElementById(["demo",e].join(''));
+        var text = document.getElementById("demo");
         
         for(var i = 1; i <= 4; i++) {
           if(i.toString() === e) {
             text.fadeIn();
             text.type = "shown";
-          } else {
-            $(["#demo",i.toString()].join('')).fadeOut(); 
-            $(["#demo",i.toString()].join('')).type = "hidden"; 
           }
         }
       }
