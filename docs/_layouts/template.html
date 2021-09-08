@@ -8,11 +8,11 @@
         for(var i = 0; i < texts.length; i++) {
           if(texts[i].id === e) {
             texts[i].classList.add('active');
-            if(i == 0) {
+            if(e === '1') {
               toggleText(); 
-            } else if(i == 1) {
+            } else if(e === '2') {
               toggleText2(); 
-            } else if(i == 2) {
+            } else if(e === '3') {
               toggleText3(); 
             } else {
               toggleText4(); 
