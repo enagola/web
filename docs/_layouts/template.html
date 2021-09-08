@@ -23,6 +23,9 @@
         }       
           
       }
+      function sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+      }
       
       function toggleText() {
         var text = document.getElementById("demo");
@@ -35,7 +38,8 @@
         $("#demo4").fadeOut();
         $("#demo4").type = "hidden";
         
-        setTimeout($("#demo").fadeIn(),1000);
+        await sleep(2000);
+        $("#demo").fadeIn();
         text.type = "shown";
 
       }
@@ -51,7 +55,8 @@
         $("#demo4").fadeOut();
         $("#demo4").type = "hidden";
         
-        setTimeout($("#demo2").fadeIn(),1000);
+        await sleep(2000);
+        $("#demo2").fadeIn();
         text.type = "shown";
 
         
@@ -69,7 +74,8 @@
         $("#demo4").fadeOut();
         $("#demo4").type = "hidden";
         
-        setTimeout($("#demo3").fadeIn(),1000);
+        await sleep(2000);
+        $("#demo3").fadeIn();
         text.type = "shown";
 
       }
@@ -86,7 +92,8 @@
         $("#demo3").fadeOut();
         $("#demo3").type = "hidden";
         
-        setTimeout($("#demo4").fadeIn(),1000);
+        await sleep(2000);
+        $("#demo4").fadeIn();
         text.type = "shown";
       }
     </script>
