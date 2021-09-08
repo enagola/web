@@ -16,8 +16,8 @@ pageheader: page-header-about
     
     <div type="hidden" id='demo2' style='display: none;text-align: center;'><p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://enagola.github.io/web/Final_report_cse145.pdf" class="btn">RD-1 Track and Retrieve Robot</a></div>
 
-    <div type="hidden" id='demo3' style='display: none;text-align: center;'><p>This is the description of the project.</p> <a href="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" class="btn">Baby Steps</a></div>
+    <div type="hidden" id='demo3' style='display: none;text-align: center;'><p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" class="btn">Baby Steps</a></div>
 
-    <div type="hidden" id='demo4' style='display: none;text-align: center;'><p>This is the description of the project.</p> <a href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a></div>
+    <div type="hidden" id='demo4' style='display: none;text-align: center;'><p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a></div>
 </body>
 
