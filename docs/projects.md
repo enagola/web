@@ -16,7 +16,7 @@ pageheader: page-header-about
 
 <h1 class="project-name">My Projects</h1>
 
-          <h2 onclick="toggleText()2">Occupations Classifier &#9; &or;</h2>
+          <h2 onclick="toggleText()">Occupations Classifier &#9; &or;</h2>
           
 
           <h2 onclick="toggleText2()">RD-1 Track and Retrieve Robot &#9; &or;</h2>
