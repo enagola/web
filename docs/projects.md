@@ -8,7 +8,7 @@ pageheader: page-header-about
 <ul class="nav_ul" style="margin-left: 0; padding-left: 0;display: inline;">
   <li class="nav_li" style="display: inline;padding-left:1em;width: 25%;"><a class="nav_a" onclick="toggleNav('1')" id='1'>Occupations Classifier</a></li>
   <li class="nav_li" style="display: inline;padding-left:1em;width: 25%;"><a class="nav_a" onclick="toggleNav('2')" id='2'>RD-1 Track and Retrieve Robot</a></li>
-  <li class="nav_li" style="display: inline;padding-left:1em;width: 25%;"><a class="nav_a" onclick="toggleNav('3')" id='3'>Baby Step</a></li>
+  <li class="nav_li" style="display: inline;padding-left:1em;width: 25%;"><a class="nav_a" onclick="toggleNav('3')" id='3'>Baby Steps Habit App</a></li>
   <li class="nav_li" style="display: inline;padding-left:1em;width: 25%;"><a class="nav_a" onclick="toggleNav('4')" id='4'>T.H.R.I.V.E. goal app</a></li>
 </ul>
 
