@@ -15,7 +15,7 @@ pageheader: page-header-about
 <h2 class="w3-center">Ethan Nagola</h2>
 
 <div class="w3-content w3-display-container">
-  <img class="mySlides" src="Photos/EthanPic.jpeg" style="width:70%;height:70%;">
+  <img class="mySlides" src="Photos/EthanPic.jpeg" style="width:400;height:500;">
  <p class="mySlides" style="width:100%">I graduated from UCSD with a Major in Computer Science
      and Minor in Cognitive sciences after 3 years in June of 2021.
      I am currently working on graduating as a Masters of Sciences
