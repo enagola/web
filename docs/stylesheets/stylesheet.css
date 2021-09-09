@@ -8,7 +8,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: black; 
-  background: #7FFFD4;
+  background: #088F8F;
   animation: fadebackground 1s;
 }
 @keyframes fadebackground {
