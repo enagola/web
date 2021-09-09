@@ -7,6 +7,15 @@
   background-color: #023020;
 }
 
+.nav_ul_2 
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #088F8F;
+}
+
 .nav_li 
 {
   float: left;
