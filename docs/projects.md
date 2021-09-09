@@ -4,7 +4,7 @@ layout: template
 filename: projects
 pageheader: page-header-about
 --- 
-<ul class="nav" style="margin-left: 0; padding-left: 0;display: inline;">
+<ul class="nav_ul" style="margin-left: 0; padding-left: 0;display: inline;">
   <li style="display: inline;padding-left:1em;width: 25%;"><a onclick="toggleNav('1')" id='1'>Occupations Classifier</a></li>
   <li style="display: inline;padding-left:1em;width: 25%;"><a onclick="toggleNav('2')" id='2'>RD-1 Track and Retrieve Robot</a></li>
   <li style="display: inline;padding-left:1em;width: 25%;"><a onclick="toggleNav('3')" id='3'>Baby Step</a></li>
