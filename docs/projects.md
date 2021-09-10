@@ -22,19 +22,19 @@ pageheader: page-header-about
 <p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a>-->
 
 <body style="margin: 0;height: 100%;">
-    <div type="hidden" id='demo' style='display: none;text-align: center;padding-top: 100px;'>
+    <div type="hidden" id='demo' style='display: none;text-align: center;'>
       <embed src="https://enagola.github.io/web/CSE203B.pdf" style="width='100%';height='80vw';align='center';"/>
     </div>
     
-    <div type="hidden" id='demo2' style='display: none;text-align: center;padding-top: 25px;'>
+    <div type="hidden" id='demo2' style='display: none;text-align: center;'>
       <embed src="https://enagola.github.io/web/Final_report_cse145.pdf" style="width='100%';height='80vw';align='center';"/>
     </div>
 
-    <div type="hidden" id='demo3' style='display: none;text-align: center;padding-top: 25px;'>
+    <div type="hidden" id='demo3' style='display: none;text-align: center;'>
       <iframe src="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" style="width='100%';height='50vw';align='center';"/>
     </div>
 
-    <div type="hidden" id='demo4' style='display: none;text-align: center;padding-top: 25px;'>
+    <div type="hidden" id='demo4' style='display: none;text-align: center;'>
       <iframe src="https://www.youtube.com/watch?v=BbzbG_M_1v0&t=199s&ab_channel=ThriveApplication" style="width='100%';height='50vw';align='center';"/>
     </div>
 </body>
