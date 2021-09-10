@@ -11,10 +11,11 @@ body {
   background: #088F8F;
   animation: fadebackground 1s;
 }
+
 @keyframes fadebackground {
   from {background-color: white;}
   to {background-color: #088F8F;}
-}}
+}
 
 .fade-in-text {
   display: inline-block;
