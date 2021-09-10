@@ -31,11 +31,11 @@ pageheader: page-header-about
     </div>
 
     <div type="hidden" id='demo3' style='display: none;text-align: center;padding-top: 25px;'>
-      <embed src="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" width="1000px" height="2100px" align="center"/>
+      <iframe src="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" width="800px" height="1000px" align="center"/>
     </div>
 
     <div type="hidden" id='demo4' style='display: none;text-align: center;padding-top: 25px;'>
-      <embed src="https://youtu.be/BbzbG_M_1v0?t=199" width="1000px" height="2100px" align="center"/>
+      <iframe src="https://youtu.be/BbzbG_M_1v0?t=199" width="800px" height="1000px" align="center"/>
     </div>
 </body>
 
