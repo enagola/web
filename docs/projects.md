@@ -17,7 +17,7 @@ pageheader: page-header-about
 
 <body>
     <div type="hidden" id='demo' style='display: none;text-align: center;padding-top: 25px;'>
-      <embed src="https://enagola.github.io/web/CSE203B.pdf" width="800px" height="2100px" />
+      <embed src="https://enagola.github.io/web/CSE203B.pdf" width="100%"/>
     </div>
     
     <div type="hidden" id='demo2' style='display: none;text-align: center;padding-top: 25px;'><p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://enagola.github.io/web/Final_report_cse145.pdf" class="btn">RD-1 Track and Retrieve Robot</a></div>
