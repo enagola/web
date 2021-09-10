@@ -17,7 +17,7 @@ pageheader: page-header-about
 
 <body>
     <div type="hidden" id='demo' style='display: none;text-align: center;padding-top: 25px;'>
-      <embed src="https://enagola.github.io/web/CSE203B.pdf" width="100%"/>
+      <iframe src="https://enagola.github.io/web/CSE203B.pdf" style="position: fixed;top: 0px;bottom: 0px;right: 0px;width: 100%;border: none;margin: 0;padding: 0;overflow: hidden;z-index: 999999;height: 100%;"/>
     </div>
     
     <div type="hidden" id='demo2' style='display: none;text-align: center;padding-top: 25px;'><p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://enagola.github.io/web/Final_report_cse145.pdf" class="btn">RD-1 Track and Retrieve Robot</a></div>
