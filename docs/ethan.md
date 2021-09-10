@@ -12,8 +12,6 @@ pageheader: page-header-about
 </style>
 <body>
 
-<h2 style="color: 7FFFD4;">Ethan Nagola</h2>
-
 <div class="w3-content w3-display-container">
   <img class="mySlides" src="Photos/EthanPic.jpeg" height="700" style="width:100%">
  <p class="mySlides" style="width:100%">I graduated from UCSD with a Major in Computer Science
