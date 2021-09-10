@@ -35,7 +35,7 @@ pageheader: page-header-about
     </div>
 
     <div type="hidden" id='demo4' style='display: none;text-align: center;padding-top: 25px;'>
-      <iframe src="https://youtu.be/BbzbG_M_1v0?t=199" width="800px" height="1000px" align="center"/>
+      <iframe src="https://www.youtube.com/watch?v=BbzbG_M_1v0&t=199s&ab_channel=ThriveApplication" width="800px" height="1000px" align="center"/>
     </div>
 </body>
 
