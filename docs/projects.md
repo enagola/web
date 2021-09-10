@@ -13,17 +13,29 @@ pageheader: page-header-about
 </ul>
 
 
-<!--<p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://enagola.github.io/web/CSE203B.pdf" type="application/pdf" class="btn">Occupations Classifier</a>-->
+<!--<p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://enagola.github.io/web/CSE203B.pdf" type="application/pdf" class="btn">Occupations Classifier</a>
+
+<p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://enagola.github.io/web/Final_report_cse145.pdf" class="btn">RD-1 Track and Retrieve Robot</a>
+
+<p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" class="btn">Baby Steps</a>
+
+<p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a>-->
 
 <body>
     <div type="hidden" id='demo' style='display: none;text-align: center;padding-top: 25px;'>
-      <embed src="https://enagola.github.io/web/CSE203B.pdf" width="1000px" height="2100px"/>
+      <embed src="https://enagola.github.io/web/CSE203B.pdf" width="1000px" height="2100px" align="center"/>
     </div>
     
-    <div type="hidden" id='demo2' style='display: none;text-align: center;padding-top: 25px;'><p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://enagola.github.io/web/Final_report_cse145.pdf" class="btn">RD-1 Track and Retrieve Robot</a></div>
+    <div type="hidden" id='demo2' style='display: none;text-align: center;padding-top: 25px;'>
+      <embed src="https://enagola.github.io/web/Final_report_cse145.pdf" width="1000px" height="2100px" align="center"/>
+    </div>
 
-    <div type="hidden" id='demo3' style='display: none;text-align: center;padding-top: 25px;'><p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" class="btn">Baby Steps</a></div>
+    <div type="hidden" id='demo3' style='display: none;text-align: center;padding-top: 25px;'>
+      <embed src="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" width="1000px" height="2100px" align="center"/>
+    </div>
 
-    <div type="hidden" id='demo4' style='display: none;text-align: center;padding-top: 25px;'><p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a></div>
+    <div type="hidden" id='demo4' style='display: none;text-align: center;padding-top: 25px;'>
+      <embed src="https://youtu.be/BbzbG_M_1v0?t=199" width="1000px" height="2100px" align="center"/>
+    </div>
 </body>
 
