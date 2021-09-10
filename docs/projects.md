@@ -23,11 +23,11 @@ pageheader: page-header-about
 
 <body style="margin: 0;height: 100%;">
     <div type="hidden" id='demo' style='display: none;text-align: center;'>
-      <embed src="https://enagola.github.io/web/CSE203B.pdf" style="width='100%';height='80vw';align='center';"/>
+      <embed src="https://enagola.github.io/web/CSE203B.pdf" width="950" height="534"/>
     </div>
     
     <div type="hidden" id='demo2' style='display: none;text-align: center;'>
-      <embed src="https://enagola.github.io/web/Final_report_cse145.pdf" style="width='100%';height='80vw';align='center';"/>
+      <embed src="https://enagola.github.io/web/Final_report_cse145.pdf" width="950" height="534"/>
     </div>
 
     <div type="hidden" id='demo3' style='display: none;text-align: center;'>
