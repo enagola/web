@@ -21,7 +21,7 @@ pageheader: page-header-about
 
 <p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://youtu.be/BbzbG_M_1v0?t=199" class="btn">T.H.R.I.V.E. goal app</a>-->
 
-<body>
+<body style="margin: 0;height: 100%;">
     <div type="hidden" id='demo' style='display: none;text-align: center;padding-top: 100px;'>
       <embed src="https://enagola.github.io/web/CSE203B.pdf" style="width='100%';height='80vw';align='center';"/>
     </div>
