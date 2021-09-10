@@ -31,11 +31,11 @@ pageheader: page-header-about
     </div>
 
     <div type="hidden" id='demo3' style='display: none;text-align: center;'>
-      <iframe src="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" style="width='100%';height='50vw';align='center';"/>
+      <iframe width="950" height="534" src="https://www.youtube.com/embed/W8iOpEHBDII" title="Baby Steps App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
     <div type="hidden" id='demo4' style='display: none;text-align: center;'>
-      <iframe src="https://www.youtube.com/watch?v=BbzbG_M_1v0&t=199s&ab_channel=ThriveApplication" style="width='100%';height='50vw';align='center';"/>
+      <iframe width="950" height="534" src="https://www.youtube.com/embed/BbzbG_M_1v0" title="T.H.R.I.V.E App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </body>
 
