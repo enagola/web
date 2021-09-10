@@ -35,7 +35,7 @@ pageheader: page-header-about
     </div>
 
     <div type="hidden" id='demo4' style='display: none;text-align: center;'>
-      <iframe width="950" height="534" src="https://www.youtube.com/embed/BbzbG_M_1v0" title="T.H.R.I.V.E App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="950" height="534" src="https://www.youtube.com/embed/BbzbG_M_1v0?start=199" title="T.H.R.I.V.E App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </body>
 
