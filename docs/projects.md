@@ -23,19 +23,19 @@ pageheader: page-header-about
 
 <body>
     <div type="hidden" id='demo' style='display: none;text-align: center;padding-top: 100px;'>
-      <embed src="https://enagola.github.io/web/CSE203B.pdf" width="1000px" height="2100px" align="center"/>
+      <embed src="https://enagola.github.io/web/CSE203B.pdf" style="width='1000px';height='2100px';align='center';"/>
     </div>
     
     <div type="hidden" id='demo2' style='display: none;text-align: center;padding-top: 25px;'>
-      <embed src="https://enagola.github.io/web/Final_report_cse145.pdf" width="1000px" height="2100px" align="center"/>
+      <embed src="https://enagola.github.io/web/Final_report_cse145.pdf" style="width='1000px';height='2100px';align='center';"/>
     </div>
 
     <div type="hidden" id='demo3' style='display: none;text-align: center;padding-top: 25px;'>
-      <iframe src="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" width="800px" height="1000px" align="center"/>
+      <iframe src="https://www.youtube.com/watch?v=W8iOpEHBDII&ab_channel=EthanNagola" style="width='800px';height='1000px';align='center';"/>
     </div>
 
     <div type="hidden" id='demo4' style='display: none;text-align: center;padding-top: 25px;'>
-      <iframe src="https://www.youtube.com/watch?v=BbzbG_M_1v0&t=199s&ab_channel=ThriveApplication" width="800px" height="1000px" align="center"/>
+      <iframe src="https://www.youtube.com/watch?v=BbzbG_M_1v0&t=199s&ab_channel=ThriveApplication" style="width='800px';height='1000px';align='center';"/>
     </div>
 </body>
 
