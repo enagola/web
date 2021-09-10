@@ -12,7 +12,7 @@ pageheader: page-header-about
 </style>
 <body>
 
-<h2 style="color: 7FFFD4">Ethan Nagola</h2>
+<h2 style="color: 7FFFD4;">Ethan Nagola</h2>
 
 <div class="w3-content w3-display-container">
   <img class="mySlides" src="Photos/EthanPic.jpeg" style="width:400;height:500;">
