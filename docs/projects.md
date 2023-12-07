@@ -23,7 +23,7 @@ pageheader: page-header-about
 
 <body style="margin: 0;height: 100%;">
     <div type="hidden" id='demo' style='display: none;text-align: center;'>
-      <embed src="https://enagola.github.io/web/CSE203B.pdf" width="950" height="1500"/>
+      <embed src="https://enagola.github.io/web/CSE203B_Project (1).pdf" width="950" height="1500"/>
     </div>
     
     <div type="hidden" id='demo2' style='display: none;text-align: center;'>
