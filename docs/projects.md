@@ -8,7 +8,7 @@ pageheader: page-header-about
 <ul class="nav_ul" style="margin-left: 0; padding-left: 0;display: inline;">
   <li class="nav_li" style="display: inline;padding-left:1em;width: 25%;"><a class="nav_a" onclick="toggleNav('1')" id='1'>Occupations Classifier</a></li>
   <li class="nav_li" style="display: inline;padding-left:1em;width: 25%;"><a class="nav_a" onclick="toggleNav('2')" id='2'>RD-1 Track and Retrieve Robot</a></li>
-  <li class="nav_li" style="display: inline;padding-left:1em;width: 25%;"><a class="nav_a" onclick="toggleNav('3')" id='3'>Baby Steps Habit App</a></li>
+  <li class="nav_li" style="display: inline;padding-left:1em;width: 25%;"><a class="nav_a" onclick="toggleNav('3')" id='3'>AV Motion Prediction</a></li>
 </ul>
 
 
@@ -30,7 +30,7 @@ pageheader: page-header-about
     </div>
 
     <div type="hidden" id='demo3' style='display: none;text-align: center;'>
-      <iframe width="950" height="534" src="https://www.youtube.com/embed/W8iOpEHBDII" title="Baby Steps App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="950" height="534" src="https://enagola.github.io/web/CSE151B_Final_Report.pdf" title="AV Motion Prediction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
     <div type="hidden" id='demo4' style='display: none;text-align: center;'>
