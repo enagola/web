@@ -1,21 +1,9 @@
----
-title: My Projects
-layout: template
-filename: projects
-pageheader: page-header-about
---- 
+
 
 <li class="nav_li" style="display: inline;padding-left:1em;width: 25%;"><a class="nav_a" onclick="toggleNav('1')" id='1'>Occupations Classifier</a></li>
 <li class="nav_li" style="display: inline;padding-left:1em;width: 25%;"><a class="nav_a" onclick="toggleNav('2')" id='2'>RD-1 Track and Retrieve Robot</a></li>
 <li class="nav_li" style="display: inline;padding-left:1em;width: 25%;"><a class="nav_a" onclick="toggleNav('3')" id='3'>Autonomous Vehicle Motion Prediction</a></li>
 
-
-
-<!--<p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://enagola.github.io/web/CSE203B.pdf" type="application/pdf" class="btn">Occupations Classifier</a>
-
-<p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://enagola.github.io/web/Final_report_cse145.pdf" class="btn">RD-1 Track and Retrieve Robot</a>
-
-<p>This is the description of the project.</p> <a style="background-image: linear-gradient(to top left, green, blue);" href="https://enagola.github.io/web/CSE151B_Final_Report.pdf" class="btn">Autonomous Vehicle Motion Prediction</a>
 
 <body style="margin: 0;height: 100%;">
     <div type="hidden" id='demo' style='display: none;text-align: center;'>
